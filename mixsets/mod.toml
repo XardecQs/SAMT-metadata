@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest
+id = "junior_djjr:mixsets"
+name = "MixSets"
+version = "4.3.7"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2022/03/sa-mixsets"
+description = "Un mod .asi con un extenso archivo .ini que contiene cientos de correcciones y ajustes para personalizar tu GTA San Andreas. Puedes activar solo una o todas las opciones."
+tags = ["fixes"]
+cover = "cover.png"
+mount = ["content"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

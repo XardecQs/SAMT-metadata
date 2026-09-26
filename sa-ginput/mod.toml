@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest
+id = "silent:ginput"
+name = "GInput"
+version = "2021-01-06"
+author = ["Silent"]
+url = "https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles"
+description = "¡Modificación esencial para jugar a GTA San Andreas, GTA Vice City o GTA III con mando/joystick!"
+tags = ["tools", "fixes"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

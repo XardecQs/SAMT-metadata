@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest
+id = "mixmods:proper-shaders"
+name = "Proper Shaders"
+version = "2026-07"
+author = ["MixMods", "Junior_Djjr", "Jéssica Natália"]
+url = "https://www.mixmods.com.br/2026/05/sa-proper-shaders"
+description = "Proper Shaders remasteriza los gráficos de GTA San Andreas en HD para ofrecer una experiencia verdaderamente jugable, no solo para capturas de pantalla."
+tags = ["graphics", "hd"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

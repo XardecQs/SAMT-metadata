@@ -1,0 +1,13 @@
+# GTA Mod Organizer manifest
+id = "link2012:improved-fastloader"
+name = "Improved Fastloader"
+version = "2014-02-24"
+author = ["LINK/2012"]
+url = "https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012"
+description = "¡3 SEGUNDOS! Eso es todo lo que te separa de abrir GTA y empezar a jugar."
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

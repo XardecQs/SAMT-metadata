@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest
+id = "junior_djjr:urbanize"
+name = "Urbanize"
+version = "2026-02"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2026/02/urbanize"
+description = "Urbanize es un proyecto de modificación que pretende revivir GTA San Andreas (el clásico juego de PC) añadiendo nuevos personajes no jugables (NPC) al entorno de San Andreas."
+tags = ["maps", "objects", "npc"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

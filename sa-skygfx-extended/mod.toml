@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest
+id = "aap:sa-skygfx-extended"
+name = "SkyGfx Extended"
+version = "4.2b"
+author = ["aap", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2024/03/sa-skygfx"
+description = "SkyGfx traslada los gráficos de PS2, Xbox, LCS, VCS y Mobile a la versión PC de GTA San Andreas (Extended v1.7 por Junior_Djjr)."
+tags = ["graphics", "fixes"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

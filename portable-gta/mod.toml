@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest
+id = "aap:portable-gta"
+name = "PortableGTA"
+version = "2021-06-11"
+author = ["aap"]
+url = "https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files"
+description = "portablegta.asi es un mod que cambia la carpeta 'GTA San Andreas User Files' a una carpeta llamada 'userfiles' en el mismo directorio donde está instalado el juego. Algo así como una instalación portátil."
+license = "MIT"
+tags = ["tools"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

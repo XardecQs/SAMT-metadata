@@ -1,0 +1,12 @@
+# GTA Mod Organizer manifest
+id = "jessica_natalia:loadscreens-definitive"
+name = "Loadscreens Definitive"
+version = "1.1"
+author = ["Jéssica Natália", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd"
+description = "Todas las pantallas de carga recreadas en formato panorámico 16:9 1080p y 4K por Jéssica Natália y Junior_Djjr, varias de ellas más completas mostrando más del cuerpo del personaje, etc."
+tags = ["hd", "interface"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]

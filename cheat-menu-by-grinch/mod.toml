@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest
+id = "grinch:cheat-menu"
+name = "Cheat Menu"
+version = "3.52"
+author = ["Grinch"]
+url = "https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch"
+description = "¡El mod de menú de trucos más avanzado y completo para GTA San Andreas! Creado en .asi mediante una interfaz gráfica basada en ratón con ImGui."
+tags = ["interface", "tools"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

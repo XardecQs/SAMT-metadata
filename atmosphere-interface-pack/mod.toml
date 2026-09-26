@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest
+id = "jessica_natalia:atmosphere-interface-pack"
+name = "Atmosphere Interface Pack"
+version = "2021-07-20"
+author = ["Jéssica Natália"]
+url = "https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd"
+description = "Un paquete que pretende ofrecer una versión completa y en alta definición de la interfaz del juego."
+tags = ["interface"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

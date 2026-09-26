@@ -1,0 +1,31 @@
+# ============================================================================
+# Repositorio SOLO-METADATOS de mods de GTA SA (SAMT).
+#
+# Se ignora TODO por defecto y se permite (whitelist) únicamente lo que es
+# propio de este repo:
+#   - <mod>/mod.toml
+#   - <mod>/cover.*
+#   - <mod>/screenshots/**
+#
+# El contenido de los mods (content/, modloader/, extras/, guides/, etc.)
+# NUNCA se versiona aquí: no es de quien mantiene este repo y en muchos casos
+# tiene licencias que prohíben su redistribución. Ver NOTICE.md.
+# ============================================================================
+
+# Ignora todo en la raíz...
+/*
+# ...pero permite descender en las carpetas de cada mod.
+!/*/
+# Dentro de cada mod, ignora también todo...
+/*/*
+# ...salvo los metadatos.
+!/*/mod.toml
+!/*/cover.*
+!/*/screenshots/
+!/*/screenshots/**
+
+# Documentación del propio repositorio.
+!/.gitignore
+!/README.md
+!/NOTICE.md
+!/LICENSE

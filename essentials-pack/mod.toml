@@ -1,0 +1,80 @@
+# GTA Mod Organizer manifest
+id = "mixmods:essentials-pack"
+name = "SA Essentials Pack"
+version = "2026-08-16"
+author = ["MixMods", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2019/06/sa-essentials-pack/"
+description = "Pack de correcciones y componentes esenciales para GTA SA: SilentPatch, ModLoader, CLEO/CLEO+, CrashInfo, NoDEP, Widescreen Fix, EXE 1.0 US Hoodlum, etc."
+tags = ["essential", "fixes", "pack", "tools"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["doitsujin:d3d9"]
+
+[[components]]
+name = "SilentPatch"
+author = "Silent"
+url = "https://www.mixmods.com.br/2015/03/SilentPatch.html"
+path = "content/modloader/_ESSENTIALS/SilentPatch"
+
+[[components]]
+name = "ModLoader"
+author = "Link2012"
+url = "https://www.mixmods.com.br/2015/01/SA-Modloader.html"
+path = "content/modloader"
+
+[[components]]
+name = "Widescreen Fix"
+author = "ThirteenAG"
+url = "https://www.mixmods.com.br/2016/06/widescreen-fix-para-gta-sa-corrigir.html"
+path = "content/modloader/_ESSENTIALS/Widescreen Fix by ThirteenAG"
+
+[[components]]
+name = "CLEO"
+url = "https://www.mixmods.com.br/2014/02/Livraria-CLEO.html"
+path = "content/CLEO"
+
+[[components]]
+name = "CLEO+"
+url = "https://www.mixmods.com.br/2020/03/CLEOPlus.html"
+
+[[components]]
+name = "CrashInfo"
+url = "https://www.mixmods.com.br/2021/08/crashinfo/"
+path = "content"
+
+[[components]]
+name = "NoDEP"
+url = "https://www.mixmods.com.br/2015/03/nodep-desativar-dep.html"
+path = "content"
+
+[[components]]
+name = "Framerate Vigilante"
+url = "https://www.mixmods.com.br/2019/06/framerate-vigilante.html"
+path = "content/modloader/_ESSENTIALS/FramerateVigilante"
+
+[[components]]
+name = "RepairGTA"
+url = "https://www.mixmods.com.br/2022/10/repair-gta/"
+path = "content/modloader/_ESSENTIALS/RepairGTA"
+
+[[components]]
+name = "RunDLL32 Fix"
+url = "https://www.mixmods.com.br/2016/02/rundll32exe-fix-corrigir-jogo-nao-abrindo.html"
+path = "content/modloader/_ESSENTIALS/RunDLL32 Fix"
+
+[[components]]
+name = "Windowed Mode"
+url = "https://www.mixmods.com.br/2018/11/iiivcsa-windowed-mode.html"
+path = "content/modloader/_ESSENTIALS/Windowed Mode"
+
+[[components]]
+name = "EXE 1.0 US Hoodlum"
+path = "content/gta_sa.exe"
+
+[[components]]
+name = "Fix dependencies (Redistributables, DirectX etc)"
+url = "https://www.mixmods.com.br/2015/08/download-de-todas-as-dll-que-voce-precisa/"
+path = "content"

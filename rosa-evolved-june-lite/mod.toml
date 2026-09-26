@@ -1,0 +1,28 @@
+# GTA Mod Organizer manifest — RoSA Evolved (LITE)
+id = "jessica_natalia:rosa-evolved-june-lite"
+name = "RoSA Evolved (LITE)"
+version = "1.4"
+author = ["Jéssica Natália", "MixMods"]
+url = "https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/"
+description = "Pack de texturas remasterizadas en HD (versión Lower Resolution) para GTA San Andreas."
+tags = ["textures", "hd", "remaster", "lite"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+# Incompatible con la variante estándar de Proper Fixes (hay que usar la de RoSA).
+conflicts = ["mixmods:proper-fixes-vanilla"]
+# Requiere memoria de streaming ampliada: basta con uno de estos.
+requires_any = ["link2012:open-limit-adjuster", "junior_djjr:improved-streaming", "junior_djjr:mixsets"]
+
+[variant]
+group = "rosa-evolved"
+name = "LITE"
+
+[modloader]
+priority = 50
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["mixmods:proper-fixes-rosa"]

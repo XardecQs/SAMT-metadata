@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest
+id = "juicermv:gps-redux"
+name = "GPS Redux"
+version = "1.5"
+author = ["juicermv"]
+url = "https://www.mixmods.com.br/2022/10/sa-gps-redux"
+description = "Nueva versión del mod de mapa GPS para GTA San Andreas. En esta nueva versión, por fin aparecerá el camino hacia los objetivos de la misión"
+tags = ["interface"]
+cover = "cover.jpg"
+mount = ["content"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

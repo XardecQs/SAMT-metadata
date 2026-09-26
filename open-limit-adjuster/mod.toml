@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest
+id = "link2012:open-limit-adjuster"
+name = "Open Limit Adjuster"
+version = "1.7"
+author = ["LINK/2012", "ThirteenAG", "Blackbird88"]
+url = "https://www.mixmods.com.br/2022/10/open-limit-adjuster"
+description = "Los mods de ajuste de límites son importantes para instalar mods en GTA, ya que permiten aumentar el límite en la cantidad de personas, coches, objetos, etc. Pero este tiene una diferencia clave: ¡aumenta automáticamente los límites según sea necesario! Esto elimina la necesidad de configurar archivos, ya que siempre se optimiza automáticamente."
+tags = ["fixes", "essential", "tools"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

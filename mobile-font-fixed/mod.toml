@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest
+id = "junior_djjr:mobile-font-fixed"
+name = "Mobile Font Fixed"
+version = "2019-12-02"
+author = ["War Drum Studios", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida"
+description = "Esta es la versión corregida de la fuente HD original tomada de la versión móvil de GTA SA. La fuente móvil es el doble de nítida que la de PC, y también ligeramente más opaca y clara."
+tags = ["hd"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

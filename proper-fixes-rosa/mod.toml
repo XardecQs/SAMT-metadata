@@ -1,0 +1,26 @@
+# GTA Mod Organizer manifest — Proper Fixes (para RoSA Evolved)
+id = "mixmods:proper-fixes-rosa"
+name = "Proper Fixes (RoSA)"
+version = "2.1.1"
+author = ["Junior_Djjr", "Jéssica Natália"]
+url = "https://www.mixmods.com.br/2026/06/sa-proper-fixes/"
+description = "Proper Fixes adaptado a RoSA Evolved (con texturas HD extra). Solo funciona con RoSA Evolved."
+tags = ["fixes", "essential"]
+cover = "cover.png"
+mount = ["content"]
+screenshots = ["screenshots"]
+
+# No confundir con la variante estándar.
+conflicts = ["mixmods:proper-fixes-vanilla"]
+# Debe usarse junto a una variante de RoSA Evolved (4K o LITE).
+requires_any = ["jessica_natalia:rosa-evolved-june", "jessica_natalia:rosa-evolved-june-lite"]
+
+[variant]
+group = "proper-fixes"
+name = "RoSA"
+
+[modloader]
+priority = 60
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

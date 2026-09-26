@@ -1,0 +1,13 @@
+# GTA Mod Organizer manifest
+id = "esquisito:enhanced-parachute"
+name = "Enhanced Parachute"
+version = "2.3"
+author = ["Esquisito"]
+url = "https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html"
+description = "A small script which started as recreation of Gummy99 ''Parachute Functionality from Breaking the Bank at Caligula's'' mod but ended up being much bigger."
+tags = ["gameplay"]
+cover = "cover.webp"
+mount = ["content"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest
+id = "zeneric:peds-and-vehs-mesh-smoothed"
+name = "Peds And Vehs Mesh Smoothed"
+version = "0.9.5"
+author = ["Zeneric"]
+url = "https://www.nexusmods.com/gtasanandreas/mods/3075"
+description = "Peds And Vehs Mesh Smoothed es un plugin para la versión de PC de GTA San Andreas, creado por Zeneric, que mejora los modelos de los peatones, de CJ y de los vehículos en tiempo real mediante 'NURMS / Catmull-Clark MeshSmooth' y un refinamiento especializado de los vehículos."
+tags = ["graphics", "vehicles"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
