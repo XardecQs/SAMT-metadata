@@ -10,5 +10,45 @@ cover = "cover.webp"
 mount = ["content"]
 guides = ["guides"]
 
+[[options]]
+group = "preset"
+name = "Preset de calidad"
+
+  [[options.choices]]
+  key = "only-improvements-postfx"
+  name = "0a - Solo mejoras + postfx"
+
+  [[options.choices]]
+  key = "only-improvements"
+  name = "0b - Solo mejoras"
+
+  [[options.choices]]
+  key = "very-low"
+  name = "1a - Muy bajo"
+
+  [[options.choices]]
+  key = "very-low-no-shadows"
+  name = "1b - Muy bajo (sin sombras)"
+
+  [[options.choices]]
+  key = "low"
+  name = "2 - Bajo"
+
+  [[options.choices]]
+  key = "medium"
+  name = "3a - Medio (por defecto)"
+
+  [[options.choices]]
+  key = "medium-high"
+  name = "3b - Medio-alto"
+
+  [[options.choices]]
+  key = "high"
+  name = "4 - Alto"
+
+  [[options.choices]]
+  key = "very-high"
+  name = "5 - Muy alto"
+
 [dependencies]
 required = ["mixmods:essentials-pack"]

@@ -1,0 +1,34 @@
+# GTA Mod Organizer manifest — Proper Fixes (RoSA / Vanilla)
+id = "mixmods:proper-fixes"
+name = "Proper Fixes"
+version = "2.1.1"
+author = ["Junior_Djjr", "Jéssica Natália"]
+url = "https://www.mixmods.com.br/2026/06/sa-proper-fixes/"
+description = "El mayor pack de correcciones para GTA SA. Elige la edición por perfil: RoSA (adaptada a RoSA Evolved) o Vanilla (estándar)."
+tags = ["fixes", "essential"]
+cover = "cover.png"
+mount = ["content"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "variant"
+name = "Edición"
+
+  # RoSA: solo funciona con RoSA Evolved.
+  [[options.choices]]
+  key = "rosa"
+  name = "RoSA"
+  requires_any = ["jessica_natalia:rosa-evolved"]
+
+  # Vanilla: incompatible con RoSA Evolved; necesita Proper Shaders o SkyGfx.
+  [[options.choices]]
+  key = "vanilla"
+  name = "Vanilla"
+  conflicts = ["jessica_natalia:rosa-evolved"]
+  requires_any = ["mixmods:proper-shaders", "aap:sa-skygfx-extended"]
+
+[modloader]
+priority = 60
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

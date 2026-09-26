@@ -39,9 +39,8 @@ mods/<slug>/
 ├── screenshots/        # galería de capturas
 ├── guides/             # readmes del autor (no versionado)
 ├── content/            # archivos que se montan sobre el juego (no versionado)
-└── extras/             # opciones no montadas (no versionado)
-    ├── variants/       # alternativas mutuamente excluyentes (SA Classic/Wii, 2K/4K…)
-    ├── presets/        # presets de calidad/ajustes (Low/Medium/High…)
+├── options/<grupo>/<valor>/  # opciones por perfil que se montan sobre content (no versionado)
+└── extras/             # material auxiliar no montado (no versionado)
     ├── optional/       # extras añadidos (planes, umbrella, bonus…)
     ├── docs/           # API para devs, avisos de terceros
     └── source/         # originales sin modificar y conversores
@@ -56,7 +55,11 @@ mods/<slug>/
   formato original, pero el nombre base es siempre `cover`).
 - **Capturas**: siempre la carpeta `screenshots/`, y en el manifiesto
   `screenshots = ["screenshots"]`.
-- **`extras/`**: solo las cinco categorías de arriba.
+- **Opciones**: `options/<grupo>/<valor>/` con el contenido game-relative que se
+  monta encima de `content/`; se declaran (o autodescubren) en `[[options]]` del
+  `mod.toml` y se eligen por perfil con `gta-mo ctl option`.
+- **`extras/`**: material auxiliar no montado, en subcarpetas por tipo
+  (`optional/`, `docs/`, `source/`).
 - **`id`**: identificador estable `autor:slug` en minúsculas; sobrevive a
   renombrados de carpeta o de nombre visible.
 - **`version`**: el número del autor (semver si existe); si no, fecha

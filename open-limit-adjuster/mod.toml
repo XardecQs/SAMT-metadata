@@ -10,5 +10,17 @@ cover = "cover.jpg"
 mount = ["content"]
 guides = ["guides"]
 
+[[options]]
+group = "preset"
+name = "Configuración"
+
+  [[options.choices]]
+  key = "samp"
+  name = "SAMP"
+
+  [[options.choices]]
+  key = "samp-project2dfx"
+  name = "SAMP + Project2DFX"
+
 [dependencies]
 required = ["mixmods:essentials-pack"]

@@ -11,5 +11,17 @@ mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]
 
+[[options]]
+group = "variant"
+name = "Variante"
+
+  [[options.choices]]
+  key = "color-filter"
+  name = "Color filter"
+
+  [[options.choices]]
+  key = "snow"
+  name = "Snow"
+
 [dependencies]
 required = ["aap:24h-timecycle"]

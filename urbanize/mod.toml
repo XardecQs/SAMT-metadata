@@ -10,5 +10,21 @@ cover = "cover.png"
 mount = ["content"]
 guides = ["guides"]
 
+[[options]]
+group = "preset"
+name = "Preset"
+
+  [[options.choices]]
+  key = "low"
+  name = "1 - Low"
+
+  [[options.choices]]
+  key = "medium"
+  name = "2 - Medium (por defecto)"
+
+  [[options.choices]]
+  key = "high"
+  name = "3 - High"
+
 [dependencies]
 required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

@@ -11,5 +11,17 @@ mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]
 
+[[options]]
+group = "variant"
+name = "Botones"
+
+  [[options.choices]]
+  key = "sa-classic"
+  name = "SA Classic"
+
+  [[options.choices]]
+  key = "sa-wii"
+  name = "SA Wii"
+
 [dependencies]
 required = ["mixmods:essentials-pack"]

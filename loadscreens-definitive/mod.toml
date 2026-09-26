@@ -10,3 +10,15 @@ cover = "cover.webp"
 mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]
+
+[[options]]
+group = "variant"
+name = "Resolución"
+
+  [[options.choices]]
+  key = "2k"
+  name = "2K"
+
+  [[options.choices]]
+  key = "4k"
+  name = "4K"
