@@ -1,0 +1,31 @@
+id = "junior_djjr:improved-surface-physics"            # id estable (autor + nombre, ambos en minusculas)
+name = "Improved Surface Physics"
+version = "2021-11-02"
+author = ["Junior_Djjr"]           # string o lista
+url = "https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/"
+description = "Un pequeño mod que modifica el archivo 'surface.dat' del juego para lograr una física de fricción ligeramente más realista en GTA SA."
+tags = ["fixes"]      # para organizar/filtrar
+
+# Carátula y guías (rutas relativas dentro de esta carpeta)
+cover = "cover.jpg"
+guides = ["guides"]
+
+# Galería de imágenes extra: una carpeta (se expande) o una lista de rutas.
+# screenshots = ["screenshots"]
+
+# Subdirectorios cuyo CONTENIDO se monta sobre la raíz del juego.
+# Sin esta clave se monta la carpeta entera (comportamiento por defecto).
+mount = ["content"]
+
+# Dependencias (referencias por id autor:slug o por carpeta)
+# [dependencies]
+# required = ["otro:mod"]      # sin esto el mod no funciona
+# optional = []
+
+# Si es un pack de mods, lista sus componentes (solo metadata)
+# [[components]]
+# name = "Componente"
+# version = "1.0.0"
+# author = "Autor"
+# url = "https://..."
+# path = "content/carpeta-del-componente"

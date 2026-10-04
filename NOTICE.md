@@ -25,25 +25,29 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
+| `drive-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
+| `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
+| `graphics-tweaker` | Junior_Djjr | <https://www.mixmods.com.br/2022/09/graphicstweaker> |
 | `gta-sa-hd-movies-folder` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd> |
 | `improved-fastloader` | LINK/2012 | <https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012> |
 | `improved-streaming` | Junior_Djjr | <https://www.mixmods.com.br/2026/07/improved-streaming> |
+| `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
 | `mixsets` | Junior_Djjr | <https://www.mixmods.com.br/2022/03/sa-mixsets> |
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
 | `open-limit-adjuster` | LINK/2012, ThirteenAG, Blackbird88 | <https://www.mixmods.com.br/2022/10/open-limit-adjuster> |
 | `peds-and-vehs-mesh-smoothed` | Zeneric | <https://www.nexusmods.com/gtasanandreas/mods/3075> |
 | `portable-gta` | aap | <https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files> |
-| `proper-fixes-rosa` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/06/sa-proper-fixes/> |
-| `proper-fixes-vanilla` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/06/sa-proper-fixes/> |
+| `project2dfx` | ThirteenAG, TJGM | <https://www.mixmods.com.br/2020/02/sa-project2dfx/> |
+| `proper-fixes` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/06/sa-proper-fixes/> |
 | `proper-shaders` | MixMods, Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/05/sa-proper-shaders> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
-| `rosa-evolved-june` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
-| `rosa-evolved-june-lite` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
+| `rosa-evolved` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
 | `sa-ginput` | Silent | <https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles> |
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |
 | `sa-skygfx-extended` | aap, Junior_Djjr | <https://www.mixmods.com.br/2024/03/sa-skygfx> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |
+| `veh-deform` | ZZPuma | <https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros> |

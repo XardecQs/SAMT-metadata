@@ -1,7 +1,7 @@
 # GTA Mod Organizer manifest
 id = "mixmods:proper-shaders"
 name = "Proper Shaders"
-version = "2026-07"
+version = "2026-08"
 author = ["MixMods", "Junior_Djjr", "Jéssica Natália"]
 url = "https://www.mixmods.com.br/2026/05/sa-proper-shaders"
 description = "Proper Shaders remasteriza los gráficos de GTA San Andreas en HD para ofrecer una experiencia verdaderamente jugable, no solo para capturas de pantalla."
@@ -13,10 +13,6 @@ guides = ["guides"]
 [[options]]
 group = "preset"
 name = "Preset de calidad"
-
-  [[options.choices]]
-  key = "only-improvements-postfx"
-  name = "0a - Solo mejoras + postfx"
 
   [[options.choices]]
   key = "only-improvements"
@@ -37,10 +33,6 @@ name = "Preset de calidad"
   [[options.choices]]
   key = "medium"
   name = "3a - Medio (por defecto)"
-
-  [[options.choices]]
-  key = "medium-high"
-  name = "3b - Medio-alto"
 
   [[options.choices]]
   key = "high"

@@ -6,5 +6,7 @@ author = ["Junior_Djjr", "Jéssica Natália"]
 url = "https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd"
 description = "Los vídeos de introducción Logo.mpg y GTAtitles.mpg ahora están en formato panorámico HD 16:9, remasterizados con escalado mediante IA."
 tags = ["hd"]
+cover = "cover.jpg"
+screenshots = ["screenshots"]
 mount = ["content"]
 guides = ["guides"]

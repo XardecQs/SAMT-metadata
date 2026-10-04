@@ -1,0 +1,34 @@
+id = "junior_djjr:graphics-tweaker"            # id estable (autor + nombre, ambos en minusculas)
+name = "Graphics Tweaker"
+version = "1.3.1"
+author = ["Junior_Djjr"]           # string o lista
+url = "https://www.mixmods.com.br/2022/09/graphicstweaker"
+description = "GraphicsTweaker es un mod ASI para mejorar los gráficos en GTA San Andreas , creado con la intención de no ser intrusivo para el juego y es compatible con otros mods gráficos."
+tags = ["graphics"]      # para organizar/filtrar
+
+# Carátula y guías (rutas relativas dentro de esta carpeta)
+cover = "cover.jpg"
+guides = ["guides"]
+
+# Galería de imágenes extra: una carpeta (se expande) o una lista de rutas.
+screenshots = ["screenshots"]
+
+# Subdirectorios cuyo CONTENIDO se monta sobre la raíz del juego.
+# Sin esta clave se monta la carpeta entera (comportamiento por defecto).
+mount = ["content"]
+
+# Al menos uno de estos debe estar activo (mods gráficos con los que encaja).
+requires_any = ["junior_djjr:real-linear-graphics", "aap:sa-skygfx-extended", "jessica_natalia:rosa-evolved", "enhanced-classic-graphics"]
+
+# Dependencias (referencias por id autor:slug o por carpeta)
+[dependencies]
+required = ["mixmods:essentials-pack"]      # sin esto el mod no funciona
+# optional = []
+
+# Si es un pack de mods, lista sus componentes (solo metadata)
+# [[components]]
+# name = "Componente"
+# version = "1.0.0"
+# author = "Autor"
+# url = "https://..."
+# path = "content/carpeta-del-componente"

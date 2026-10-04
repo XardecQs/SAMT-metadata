@@ -1,0 +1,40 @@
+# GTA Mod Organizer manifest
+id = "thirteenag:project2dfx"
+name = "Project2DFX"
+version = "4.4"
+author = ["ThirteenAG", "TJGM"]
+url = "https://www.mixmods.com.br/2020/02/sa-project2dfx/"
+description = "Aumenta la distancia de visión del mapa y las luces (LOD lights, coronas, searchlights) con un .ini muy configurable."
+tags = ["graphics"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+cover = "cover.jpg"
+
+# Al menos uno de estos debe estar activo (mods gráficos con los que encaja).
+requires_any = ["junior_djjr:improved-streaming", "enhanced-classic-graphics"]
+
+[[options]]
+group = "preset"
+name = "Configuración"
+
+  [[options.choices]]
+  key = "optimized-default"
+  name = "Optimized (por defecto)"
+
+  [[options.choices]]
+  key = "high"
+  name = "Alto"
+
+  [[options.choices]]
+  key = "low"
+  name = "Bajo"
+
+  [[options.choices]]
+  key = "original"
+  name = "Original"
+
+# Dependencias (referencias por id autor:slug o por carpeta)
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]      # sin esto el mod no funciona
