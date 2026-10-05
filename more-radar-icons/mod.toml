@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — More Radar Icons
+id = "junior_djjr:more-radar-icons"
+name = "More Radar Icons"
+version = "3.0"
+author = ["Junior_Djjr", "rill_"]
+url = "https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html"
+description = "Añade iconos de radar (blips) para muchos puntos de interés que el juego no marca: iglesias, moteles, edificios, departamento de planificación, y más. Cada icono se puede desactivar desde el .cfg. Versión no oficial reescrita desde cero (gta3script): los blips se actualizan al iniciar/terminar misiones y usa un método de carga de texturas que evita los cuadros blancos. Requiere CLEO+ (Essentials Pack)."
+tags = ["interface", "map"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

@@ -1,0 +1,50 @@
+# GTA Mod Organizer manifest — Project Web Anims
+id = "desmito:project-web-anims"
+name = "Project Web Anims"
+version = "7.5"
+author = ["Desmito", "Junior_Djjr", "_AG", "NoxchoBoy"]
+url = "https://www.mixmods.com.br/2022/04/sa-project-web-anims/"
+description = "Pack de animaciones para CJ y peatones: vault, movimiento, apertura de puertas, carrera y más. Incluye ImprovedMove, Open Door Anim, Ped Run Fix y Sprinting With Two Handed Weapons. Permite elegir el estilo de animaciones de peatones (Remasterizado o SAMP) y variantes de vault Tracer. Requiere Essentials Pack. Puede chocar con otros mods que toquen weapon.dat o default.ide."
+tags = ["player", "anims"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "peds"
+name = "Animaciones de peatones"
+default = "remasterization"
+
+  # Estilo remasterizado (por defecto): versión pulida de las animaciones originales.
+  [[options.choices]]
+  key = "remasterization"
+  name = "Remasterizado (por defecto)"
+
+  # Estilo SAMP: el usado en SA-MP.
+  [[options.choices]]
+  key = "samp"
+  name = "SAMP Style"
+
+[[options]]
+group = "vault"
+name = "Vault (saltos)"
+default = "tracer-3"
+
+  # Reemplaza la animación de vault del pack por una variante Tracer (sin
+  # voltereta). Elige el nivel; los demás y las variantes "con voltereta" están
+  # en extras/optional/tracer-style-com-rolamento.
+  [[options.choices]]
+  key = "tracer-1"
+  name = "Tracer 1 · Advanced Vault"
+
+  [[options.choices]]
+  key = "tracer-2"
+  name = "Tracer 2 · Intermediate Vault"
+
+  [[options.choices]]
+  key = "tracer-3"
+  name = "Tracer 3 · Basic Vault"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

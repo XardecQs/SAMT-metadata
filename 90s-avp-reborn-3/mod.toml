@@ -1,0 +1,16 @@
+# GTA Mod Organizer manifest — 90s AVP Reborn 3
+id = "firefly:90s-avp-reborn-3"
+name = "90s AVP Reborn 3"
+version = "2020-04-13"
+author = ["Firefly", "Crowdigger", "Zeneric", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2020/04/90s-atmosphere-vehicles-pack-reborn-3/"
+description = "Pack de vehículos ambientales (coches, motos, barcos, aviones y trenes) con estética remasterizada de los 2000: más definición y texturas mejoradas. Incluye ECG Vehicle, Wild Upgraded Your Cars 2 y Lure Rancher, además de coches añadidos opcionales y piezas de tuning HD. Requiere VehFuncs; recomendados ImVehFt y Open Limit Adjuster. Incluye el Fix oficial (admiral, camper, remington)."
+tags = ["vehicles", "textures"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["junior_djjr:veh-funcs"]
+optional = ["dk22pac:imvehft", "link2012:open-limit-adjuster"]

@@ -1,0 +1,41 @@
+# GTA Mod Organizer manifest — SCRLog
+id = "link2012:scr-log"
+name = "SCRLog"
+version = "2020.3"
+author = ["LINK/2012", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2020/09/scrlog.html"
+description = "Registra en scrlog.log la actividad de los scripts (CLEO/SCM) para depurar cierres: muestra el último script y comando ejecutado antes del crash, además de una ventana con el script culpable. Incluye 6 niveles de detalle seleccionables. Sólo funciona instalado desde la carpeta modloader. Puede costar FPS; desactívalo para jugar normal (cheat SCRL)."
+tags = ["tools", "debug"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "preset"
+name = "Nivel de detalle"
+default = "3"
+
+  [[options.choices]]
+  key = "0"
+  name = "0 · Sólo nombres de scripts (muy rápido)"
+
+  [[options.choices]]
+  key = "1"
+  name = "1 · Nombres de scripts y comandos en el crash (muy rápido)"
+
+  [[options.choices]]
+  key = "2"
+  name = "2 · Sólo nombres de scripts (rápido)"
+
+  [[options.choices]]
+  key = "3"
+  name = "3 · Toda la información en el crash (recomendado)"
+
+  [[options.choices]]
+  key = "4"
+  name = "4 · Nombres de scripts y comandos (lento)"
+
+  [[options.choices]]
+  key = "5"
+  name = "5 · Toda la información siempre (muy lento)"
