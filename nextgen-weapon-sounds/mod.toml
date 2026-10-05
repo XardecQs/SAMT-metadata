@@ -1,0 +1,42 @@
+# GTA Mod Organizer manifest — NextGen Weapon Sounds
+id = "pedrowav:nextgen-weapon-sounds"
+name = "NextGen Weapon Sounds"
+version = "2026-03-17"
+author = ["pedrowav", "wuzimu7171_"]
+url = "https://libertycity.net/files/gta-san-andreas/230701-nextgen-weapon-sounds.html"
+description = "Pack de sonidos de armas realistas (sampleados de Call of Duty: Modern Warfare) para el motor EarShot OpenAL: disparo, recarga, dry-fire y low-ammo para 13 armas (AK47, M4, MP5, pistolas, escopetas, sniper...), más ricochetes genéricos. Requiere EarShot OpenAL y Essentials Pack. Incluye el CLEO Dynamic Weapon Draw Sounds (sonidos al desenfundar/apuntar) y una variante de recargas para el Immersive Weapons Pack. El alsoft.ini propio del pack queda en extras/optional."
+tags = ["weapons", "audio"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[[options]]
+group = "reload"
+name = "Sonidos de recarga"
+default = "standard"
+
+  [[options.choices]]
+  key = "standard"
+  name = "Standard (por defecto)"
+
+  # Recargas alternativas para el pack "Immersive Weapons Pack".
+  [[options.choices]]
+  key = "immersive"
+  name = "Immersive Weapons Pack"
+
+[[options]]
+group = "dwds"
+name = "Dynamic Weapon Draw Sounds"
+default = "on"
+
+  # Sonidos al desenfundar/apuntar un arma (CLEO aparte).
+  [[options.choices]]
+  key = "on"
+  name = "Activado (por defecto)"
+
+  [[options.choices]]
+  key = "off"
+  name = "Desactivado"
+
+[dependencies]
+required = ["mixmods:essentials-pack", "theartemmaps1:earshot-openal"]

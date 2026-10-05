@@ -32,6 +32,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
 | `drive-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
+| `earshot-openal` | wuzimu7171_ | <https://github.com/theartemmaps1/EarShotOpenAL> |
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhance-particle-txd` | Junior_Djjr | <https://www.mixmods.com.br/2016/03/enhance-particletxd/> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
@@ -55,6 +56,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `more-radar-icons` | Junior_Djjr, rill_ | <https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
 | `nextgen-remaster-effects` | Ezekiel, Junior_Djjr | <https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/> |
+| `nextgen-weapon-sounds` | pedrowav, wuzimu7171_ | <https://libertycity.net/files/gta-san-andreas/230701-nextgen-weapon-sounds.html> |
 | `oil-leaking` | Junior_Djjr | <https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/> |
 | `open-limit-adjuster` | LINK/2012, ThirteenAG, Blackbird88 | <https://www.mixmods.com.br/2022/10/open-limit-adjuster> |
 | `peds-and-vehs-mesh-smoothed` | Zeneric | <https://www.nexusmods.com/gtasanandreas/mods/3075> |

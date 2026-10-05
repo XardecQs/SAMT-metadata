@@ -1,0 +1,13 @@
+# GTA Mod Organizer manifest — EarShot OpenAL
+id = "theartemmaps1:earshot-openal"
+name = "EarShot OpenAL"
+version = "1.0.2"
+author = ["wuzimu7171_"]
+url = "https://github.com/theartemmaps1/EarShotOpenAL"
+description = "Motor de sonido (revamp del EarShot original de HzanRsxa2959) basado en OpenAL Soft que permite AÑADIR sonidos nuevos sin reemplazar los vanilla: armas (disparo, recarga, dry-fire, low-ammo, eco, disparo lejano), explosiones, pasos, ricochetes, fuego, melee y ambiente por zona. Soporta atenuación 3D, reverb y hasta 10 variantes por sonido. Requiere OpenAL32.dll y alsoft.ini en la raíz del juego (incluidos). Los packs de sonido se colocan en modloader/EarShotMod/EarShot/. Incluye 4 packs de sonido opcionales en extras/optional. Alternativa al desaparecido ModelExtras."
+tags = ["audio", "tools"]
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
