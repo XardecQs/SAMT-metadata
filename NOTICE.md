@@ -36,6 +36,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `earshot-openal` | wuzimu7171_ | <https://github.com/theartemmaps1/EarShotOpenAL> |
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhance-particle-txd` | Junior_Djjr | <https://www.mixmods.com.br/2016/03/enhance-particletxd/> |
+| `enhanced-classic-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `faithful-weapons-pack` | ThePedro004, Firefly, Nadalao, Ezekiel | <https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/> |

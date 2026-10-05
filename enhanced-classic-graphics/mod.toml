@@ -1,0 +1,44 @@
+# GTA Mod Organizer manifest — ECG (Enhanced Classic Graphics)
+id = "junior_djjr:enhanced-classic-graphics"
+name = "ECG – Enhanced Classic Graphics"
+version = "2019-10-16"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2019/10/ecg-enhanced-classic-graphics/"
+description = "Pack de gráficos 'remaster clásico' de GTA SA: reemplaza las texturas de models/particle.txd (sangre, marcas de neumático, sombras, faros/luces, agua, nubes...) e incluye Improved 2DFX (mayor radio de iluminación de los postes). Se apoya en el script Enhance ParticleTXD (dependencia), que da variaciones e independencia a los efectos. Con IMFX, se recomienda poner ENABLE_BLOODSPOTS=NO y ENABLE_MOONPHASES=NO en imfx.dat para ver la sangre/luna de ECG. No incluye vehicle.txd (descarga aparte). Elige Normal o Light; activa Improved 2DFX solo si no usas Proper Shaders (05-26+), que ya hace lo mismo."
+tags = ["effects", "graphics", "textures"]
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "particle-txd"
+name = "Particle TXD"
+default = "normal"
+
+  [[options.choices]]
+  key = "normal"
+  name = "Normal (por defecto)"
+
+  # Casi del mismo peso que el original del juego.
+  [[options.choices]]
+  key = "light"
+  name = "Light (más ligero)"
+
+[[options]]
+group = "2dfx"
+name = "Improved 2DFX"
+default = "off"
+
+  # Edita los .dff de los postes para más radio de luz. No usar con Proper
+  # Shaders 05-26+, que ya lo hace.
+  [[options.choices]]
+  key = "off"
+  name = "Desactivado (por defecto)"
+
+  [[options.choices]]
+  key = "on"
+  name = "Activado"
+
+[dependencies]
+required = ["mixmods:essentials-pack", "junior_djjr:enhance-particle-txd"]
+optional = ["dk22pac:imfx", "junior_djjr:mixsets"]
