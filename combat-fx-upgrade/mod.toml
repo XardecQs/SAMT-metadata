@@ -1,0 +1,31 @@
+# GTA Mod Organizer manifest — Combat FX Upgrade
+id = "warbutler:combat-fx-upgrade"
+name = "Combat FX Upgrade"
+version = "2020-03-08"
+author = ["WarButler", "Junior_Djjr", "Ezekiel", "Function-X-"]
+url = "https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/"
+description = "Pack de efectos de combate HD (2020): fogonazos/disparos, explosiones, humo, fuego y sangre realistas. Incluye EffectLoader y EnhanceFX. La intensidad se ajusta con MixSets (FxEmissionRateMult, FxEmissionRateShare, FxDistanceMult) y se recomienda IMFX, reemplazando su gunflash.dat desde la opción 'imfx-gunflash'. No necesita IMFX, pero los efectos de tiro están adaptados a él. Nota: si otro pack de efectos cambia el mismo efecto, este lo reemplaza. Requiere Essentials Pack."
+tags = ["effects", "graphics"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "imfx-gunflash"
+name = "Gunflash para IMFX"
+default = "on"
+
+  # Reemplaza el gunflash.dat de IMFX por el de este pack (recomendado al
+  # usar IMFX). Inofensivo si IMFX no está instalado.
+  [[options.choices]]
+  key = "on"
+  name = "Usar el de Combat FX (recomendado)"
+
+  [[options.choices]]
+  key = "off"
+  name = "Mantener el de IMFX"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["dk22pac:imfx", "junior_djjr:mixsets"]

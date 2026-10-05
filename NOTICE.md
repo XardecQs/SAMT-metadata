@@ -29,6 +29,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `bullet-time` | xardec, RitrS | <https://github.com/XardecQs/samt-nix> |
 | `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
+| `combat-fx-upgrade` | WarButler, Junior_Djjr, Ezekiel, Function-X- | <https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
 | `drive-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
@@ -47,6 +48,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `improved-fastloader` | LINK/2012 | <https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012> |
 | `improved-streaming` | Junior_Djjr | <https://www.mixmods.com.br/2026/07/improved-streaming> |
 | `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
+| `imfx` | DK22Pac, Function-X- | <https://www.mixmods.com.br/2018/09/IMFX.html> |
 | `imvehft` | DK22Pac, Function-X-, Junior_Djjr | <https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/> |
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
 | `manual-driveby-refixed` | CatchyKetchup, ThirteenAG, Junior_Djjr, ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html> |

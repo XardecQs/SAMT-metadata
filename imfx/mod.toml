@@ -1,0 +1,16 @@
+# GTA Mod Organizer manifest — IMFX (Improved FX)
+id = "dk22pac:imfx"
+name = "IMFX (Improved FX)"
+version = "17.11.2017t"
+author = ["DK22Pac", "Function-X-"]
+url = "https://www.mixmods.com.br/2018/09/IMFX.html"
+description = "Mejora los efectos especiales de GTA SA con un sistema configurable: fogonazos (gunflash) realistas, explosiones, lensflare, fases lunares, gotas de lluvia en pantalla, letreros de carretera en HD y manchas de sangre. Necesita un effects mod adaptado (como Combat FX Upgrade, Overdose Effects o Remastered Effects) y se configura en imfx.dat, donde cada efecto se puede activar/desactivar. Requiere Essentials Pack."
+tags = ["effects", "graphics"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["warbutler:combat-fx-upgrade"]
