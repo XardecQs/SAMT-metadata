@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — SA Wind Farm Mod
+id = "junior_djjr:sa-wind-farm"
+name = "SA Wind Farm Mod"
+version = "1.0.2"
+author = ["Junior_Djjr", "Sket_h", "Jéssica Natália"]
+url = "https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/"
+description = "Añade un parque eólico (turbinas animadas) en el mapa mediante script CLEO y modelos nuevos (.dff/.txd) con su .ide/.col. El .ide es modular (puedes ajustar la distancia de dibujado e IDs). Requiere CLEO+ (Essentials Pack) y Open Limit Adjuster."
+tags = ["maps", "objects"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

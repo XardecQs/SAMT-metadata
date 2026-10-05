@@ -22,23 +22,28 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 |---|---|---|
 | `24h-timecycle` | aap | <https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas> |
 | `advanced-nitro-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/221020-advanced-nitro-system.html> |
+| `aim-sensibility` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/> |
 | `atmosphere-interface-pack` | Jéssica Natália | <https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd> |
 | `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
 | `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
+| `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
 | `drive-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `gasoline-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
+| `gear-control` | Asen, FilipeS, Junior_Djjr | <https://libertycity.net/files/gta-san-andreas/184195-gear-control.html> |
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
 | `graphics-tweaker` | Junior_Djjr | <https://www.mixmods.com.br/2022/09/graphicstweaker> |
 | `gta-sa-hd-movies-folder` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd> |
 | `improved-fastloader` | LINK/2012 | <https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012> |
 | `improved-streaming` | Junior_Djjr | <https://www.mixmods.com.br/2026/07/improved-streaming> |
 | `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
+| `imvehft` | DK22Pac, Function-X-, Junior_Djjr | <https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/> |
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
+| `manual-mouse-shift-gears` | FilipeS, Junior_Djjr | <https://www.mixmods.com.br/2021/09/manual-mouse-shift-gears-mod-v0-4-trocar-marcha-usando-mouse/> |
 | `mixsets` | Junior_Djjr | <https://www.mixmods.com.br/2022/03/sa-mixsets> |
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
@@ -55,6 +60,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |
 | `sa-skygfx-extended` | aap, Junior_Djjr | <https://www.mixmods.com.br/2024/03/sa-skygfx> |
 | `sa-styled-speedometer` | rill_ | <https://libertycity.net/files/gta-san-andreas/220739-sa-styled-speedometer.html> |
+| `sa-wind-farm` | Junior_Djjr, Sket_h, Jéssica Natália | <https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/> |
 | `the-weapon-is-on-the-player` | Artem.1.9.9.6 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
 | `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |

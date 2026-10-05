@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — ImVehFt (Improved Vehicle Features)
+id = "dk22pac:imvehft"
+name = "ImVehFt (Improved Vehicle Features)"
+version = "2.1.1"
+author = ["DK22Pac", "Function-X-", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/"
+description = "Mejora el aspecto de los vehículos: intermitentes y warning (Z/C/X), luces antiniebla (J), frenos, luces de matrícula, placas HD, suciedad y sombras. Incluye ImVehFtFix.asi y documentación para modeladores en extras/docs. Reemplaza el antiguo imvehft-211-new-unofficial. Requiere Essentials Pack (ASI Loader)."
+tags = ["vehicles", "graphics"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

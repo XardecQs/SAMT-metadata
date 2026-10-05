@@ -1,0 +1,16 @@
+# GTA Mod Organizer manifest — Gear Control
+id = "asen:gear-control"
+name = "Gear Control"
+version = "1.7"
+author = ["Asen", "FilipeS", "Junior_Djjr"]
+url = "https://libertycity.net/files/gta-san-andreas/184195-gear-control.html"
+description = "Cambio de marchas manual con embrague: acelerar (W) sube marcha, frenar/reversa (S) baja, LShift es el embrague y Espacio frenos ABS. Incluye indicador de marcha, animaciones y opciones en el .ini (modo automático/manual, StopBeforeRev…). Mutuamente excluyente con Manual Mouse Shift Gears Mod. Requiere CLEO+."
+tags = ["vehicles", "gameplay"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+conflicts = ["filipes:manual-mouse-shift-gears"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

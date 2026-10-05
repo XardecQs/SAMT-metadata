@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest — Aim Sensibility
+id = "junior_djjr:aim-sensibility"
+name = "Aim Sensibility"
+version = "2.0"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/"
+description = "Permite configurar la sensibilidad del ratón mientras apuntas con un arma, con un multiplicador general y otro específico para el rifle de francotirador (por defecto 0.5). Recreado en .asi. Requiere Essentials Pack (ASI Loader)."
+tags = ["player", "gameplay"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
