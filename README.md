@@ -92,3 +92,11 @@ instante en `gta-mo ctl` y en la GUI.
 - Las carátulas y capturas **no** están cubiertas por CC0: son obra de los
   autores de cada mod y se incluyen solo para identificarlos. Ver
   [`NOTICE.md`](NOTICE.md).
+
+## Agradecimientos
+
+Gracias a [MixMods](https://www.mixmods.com.br/) y a Junior_Djjr por tantos años
+compartiendo mods, código y conocimiento. Sigo su web desde hace años (2018
+aprox), y buena parte de los mods de este catálogo son suyos. Además, varias
+ideas de `mod.toml` (etiquetas, opciones, dependencias) están inspiradas
+directamente en su forma de trabajar.
