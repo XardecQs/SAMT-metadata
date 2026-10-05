@@ -1,0 +1,37 @@
+# GTA Mod Organizer manifest — SA Styled Speedometer
+id = "rill_:sa-styled-speedometer"
+name = "SA Styled Speedometer"
+version = "3"
+author = ["rill_"]
+url = "https://libertycity.net/files/gta-san-andreas/220739-sa-styled-speedometer.html"
+description = "Velocímetro digital integrado en el estilo del juego: velocidad, RPM/marcha, estado del motor, puertas, faros, intermitentes, neumáticos, nitro/hidráulicos y más, con posición/fuente/color configurables y adaptado a SAMP. Incluye el mod Race Text Box de vladvo. Con ExtraBars=1 muestra barras de combustible (Gasoline Mod) y nitro (Advanced Nitro System); con VehFuncsSpeed=1 usa el cálculo de velocidad de VehFuncs. Requiere CLEO+."
+tags = ["interface", "vehicles"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "preset"
+name = "Posición"
+default = "circular-right"
+
+  [[options.choices]]
+  key = "circular-left"
+  name = "Circular izquierda"
+
+  [[options.choices]]
+  key = "circular-right"
+  name = "Circular derecha"
+
+  [[options.choices]]
+  key = "linear-left"
+  name = "Lineal izquierda"
+
+  [[options.choices]]
+  key = "linear-right"
+  name = "Lineal derecha"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["artem1996:gasoline-mod", "void:advanced-nitro-system", "junior_djjr:veh-funcs"]

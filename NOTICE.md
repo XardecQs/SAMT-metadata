@@ -21,6 +21,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | Mod | Autoría | Fuente |
 |---|---|---|
 | `24h-timecycle` | aap | <https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas> |
+| `advanced-nitro-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/221020-advanced-nitro-system.html> |
 | `atmosphere-interface-pack` | Jéssica Natália | <https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd> |
 | `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
 | `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
@@ -30,6 +31,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
+| `gasoline-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
 | `graphics-tweaker` | Junior_Djjr | <https://www.mixmods.com.br/2022/09/graphicstweaker> |
 | `gta-sa-hd-movies-folder` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd> |
@@ -40,6 +42,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `mixsets` | Junior_Djjr | <https://www.mixmods.com.br/2022/03/sa-mixsets> |
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
+| `oil-leaking` | Junior_Djjr | <https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/> |
 | `open-limit-adjuster` | LINK/2012, ThirteenAG, Blackbird88 | <https://www.mixmods.com.br/2022/10/open-limit-adjuster> |
 | `peds-and-vehs-mesh-smoothed` | Zeneric | <https://www.nexusmods.com/gtasanandreas/mods/3075> |
 | `portable-gta` | aap | <https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files> |
@@ -51,11 +54,13 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-ginput` | Silent | <https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles> |
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |
 | `sa-skygfx-extended` | aap, Junior_Djjr | <https://www.mixmods.com.br/2024/03/sa-skygfx> |
+| `sa-styled-speedometer` | rill_ | <https://libertycity.net/files/gta-san-andreas/220739-sa-styled-speedometer.html> |
 | `the-weapon-is-on-the-player` | Artem.1.9.9.6 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
 | `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |
 | `veh-deform` | ZZPuma | <https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros> |
+| `veh-funcs` | Junior_Djjr, Fabio | <https://www.mixmods.com.br/2025/12/sa-vehfuncs/> |
 | `void-radio-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html> |
 | `void-ultimate-aim-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243919-void-ultimate-aim-system.html> |
 | `void-weapon-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html> |

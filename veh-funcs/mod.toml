@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — VehFuncs
+id = "junior_djjr:veh-funcs"
+name = "VehFuncs"
+version = "2.5.5"
+author = ["Junior_Djjr", "Fabio"]
+url = "https://www.mixmods.com.br/2025/12/sa-vehfuncs/"
+description = "Framework que da funciones avanzadas a los coches añadidos (suspensión, faros, volante, agujas digitales, etc.) y sustituye a IndieVehicles. Incluye gsx.asi; no lo dupliques con otro mod. SA Styled Speedometer puede usar su cálculo de velocidad (VehFuncsSpeed=1). Requiere Essentials Pack."
+tags = ["vehicles", "tools"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

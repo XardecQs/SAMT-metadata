@@ -1,0 +1,40 @@
+# GTA Mod Organizer manifest — Advanced Nitro System
+id = "void:advanced-nitro-system"
+name = "Advanced Nitro System"
+version = "3.2"
+author = ["VoidTheMage"]
+url = "https://libertycity.net/files/gta-san-andreas/221020-advanced-nitro-system.html"
+description = "Reescribe el nitro de GTA SA: control manual de activación y purga (con sonido de Junior_Djjr), nitro en motos y barcos, modo consumible (se recarga entrando/saliendo de un taller), HUD y teclas configurables, y API GetNitroValue para otros mods (la usa SA Styled Speedometer). Se recomienda Mobile Font Fixed para el contador. Requiere CLEO+. Aviso: no desinstalar con motos con nitro guardadas en el garaje."
+tags = ["vehicles", "interface"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "preset"
+name = "Preset HUD"
+default = "vertical"
+
+  [[options.choices]]
+  key = "vertical"
+  name = "Vertical (con icono)"
+
+  [[options.choices]]
+  key = "vertical-noicon"
+  name = "Vertical (sin icono)"
+
+  [[options.choices]]
+  key = "horizontal"
+  name = "Horizontal (con icono)"
+
+  [[options.choices]]
+  key = "horizontal-noicon"
+  name = "Horizontal (sin icono)"
+
+  [[options.choices]]
+  key = "mobile-hud"
+  name = "MobileHud"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
