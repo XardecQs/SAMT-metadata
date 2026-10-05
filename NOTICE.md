@@ -38,6 +38,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
 | `mixsets` | Junior_Djjr | <https://www.mixmods.com.br/2022/03/sa-mixsets> |
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
+| `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
 | `open-limit-adjuster` | LINK/2012, ThirteenAG, Blackbird88 | <https://www.mixmods.com.br/2022/10/open-limit-adjuster> |
 | `peds-and-vehs-mesh-smoothed` | Zeneric | <https://www.nexusmods.com/gtasanandreas/mods/3075> |
 | `portable-gta` | aap | <https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files> |

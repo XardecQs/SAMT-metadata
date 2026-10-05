@@ -1,0 +1,39 @@
+# GTA Mod Organizer manifest — MW Project (More Water)
+id = "mixmods:mw-project"
+name = "MW Project"
+version = "0.1"
+author = ["Junior_Djjr", "Scop", "MaxHeadRooM_", "Sanya1990"]
+url = "https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/"
+description = "MW Project (mais água por SA) añade agua donde falta por todo San Andreas: piscinas, arroyos y el canal de Los Santos basado en GTA V. La edición Lite sólo añade aguas bajas y es compatible con Proper Fixes y otros mods de mapa; la Full reemplaza muchos archivos."
+tags = ["maps", "objects"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "variant"
+name = "Edición"
+default = "lite"
+
+  # Completa: añade aguas altas, incluido el canal de Los Santos. Reemplaza
+  # muchos archivos: incompatible con Proper Fixes y otros mods de mapa.
+  [[options.choices]]
+  key = "full"
+  name = "Full"
+  conflicts = ["mixmods:proper-fixes"]
+
+  # Lite (recomendada): sólo aguas bajas (piscinas). Compatible con Proper
+  # Fixes y otros mods de mapa.
+  [[options.choices]]
+  key = "lite"
+  name = "Lite (recomendada)"
+
+  # Completa + agua no-marrón en Back O' Beyond.
+  [[options.choices]]
+  key = "back-o-beyond"
+  name = "Back O' Beyond Edition"
+  conflicts = ["mixmods:proper-fixes"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
