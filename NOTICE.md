@@ -25,6 +25,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `aim-sensibility` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/> |
 | `atmosphere-interface-pack` | Jéssica Natália | <https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd> |
 | `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
+| `bullet-time` | xardec, RitrS | <https://github.com/XardecQs/samt-nix> |
 | `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |

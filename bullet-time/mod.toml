@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest — Bullet Time
+id = "xardec:bullet-time"
+name = "Bullet Time"
+version = "1.0"
+author = ["xardec", "RitrS"]
+url = "https://github.com/XardecQs/samt-nix"
+description = "Ralentización (cámara lenta) unificada: reúne los antiguos SFBR/SMBR de RitrS (2013) en un único script CLEO+ con 6 modos (apuntar, disparar, en coche, mantener tecla, toggle y temporizado), transición suave, recarga del .ini en caliente y soporte de mando vía GInput. La idea es que funcione como una habilidad del jugador (o accesibilidad). Requiere CLEO+ (Essentials Pack); GInput opcional para el mando."
+tags = ["gameplay", "player"]
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["silent:ginput"]
