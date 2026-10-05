@@ -1,0 +1,38 @@
+# GTA Mod Organizer manifest — The Weapon Is on the Player
+id = "artem1996:the-weapon-is-on-the-player"
+name = "The Weapon Is on the Player"
+version = "3.0"
+author = ["Artem1996"]
+url = "https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html"
+description = "Muestra el arma primaria y secundaria en el cuerpo de CJ (y oculares de visión nocturna, nudillos, paracaídas, cuchillo, katana y armas arrojadizas). Todo configurable por .ini; incluye los códigos WEAPONOFF/WEAPONON. Funciona en SAMP."
+tags = ["cleo", "player"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "preset"
+name = "Preset"
+default = "default"
+
+  [[options.choices]]
+  key = "default"
+  name = "Default"
+
+  # En el paquete del autor, "Default (old)" y "Counter-Strike 2 Style" son
+  # byte-idénticos (probable descuido); se conservan ambos tal cual.
+  [[options.choices]]
+  key = "default-old"
+  name = "Default (old)"
+
+  [[options.choices]]
+  key = "cs2-style"
+  name = "Counter-Strike 2 Style"
+
+  [[options.choices]]
+  key = "everything-enabled"
+  name = "Everything is enabled"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

@@ -50,5 +50,6 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-ginput` | Silent | <https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles> |
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |
 | `sa-skygfx-extended` | aap, Junior_Djjr | <https://www.mixmods.com.br/2024/03/sa-skygfx> |
+| `the-weapon-is-on-the-player` | Artem.1.9.9.6 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |
 | `veh-deform` | ZZPuma | <https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros> |
