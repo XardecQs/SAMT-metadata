@@ -1,0 +1,45 @@
+# GTA Mod Organizer manifest — Void Weapon Wheel
+id = "void:weapon-wheel"
+name = "Void Weapon Wheel"
+version = "1.5"
+author = ["VoidTheMage"]
+url = "https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html"
+description = "Rueda de armas integrada en el estilo del juego: se abre con tecla (TAB/Q) o con la rueda del ratón, compatible con mando (requiere GInput), SAMP, multijugador local y armas añadidas, con iconos personalizables y muchísimas opciones en el .ini. Requiere CLEO+. Incluye código fuente en extras/source y compatibilidad con GTA Carcer City en extras/optional."
+tags = ["interface", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "language"
+name = "Idioma"
+default = "en"
+
+  [[options.choices]]
+  key = "en"
+  name = "English"
+
+  [[options.choices]]
+  key = "pt"
+  name = "Português (BR)"
+
+[[options]]
+group = "icons"
+name = "Iconos"
+default = "default"
+
+  [[options.choices]]
+  key = "default"
+  name = "Originales (con borde)"
+
+  [[options.choices]]
+  key = "borderless-vanilla"
+  name = "Sin borde (Vanilla)"
+
+  [[options.choices]]
+  key = "borderless-nadalao"
+  name = "Sin borde (nadalao, recomendado)"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

@@ -22,6 +22,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 |---|---|---|
 | `24h-timecycle` | aap | <https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas> |
 | `atmosphere-interface-pack` | Jéssica Natália | <https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd> |
+| `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
 | `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
@@ -51,5 +52,10 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |
 | `sa-skygfx-extended` | aap, Junior_Djjr | <https://www.mixmods.com.br/2024/03/sa-skygfx> |
 | `the-weapon-is-on-the-player` | Artem.1.9.9.6 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
+| `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
+| `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |
 | `veh-deform` | ZZPuma | <https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros> |
+| `void-radio-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html> |
+| `void-ultimate-aim-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243919-void-ultimate-aim-system.html> |
+| `void-weapon-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html> |

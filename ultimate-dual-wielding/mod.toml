@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest — Ultimate Dual Wielding
+id = "void:ultimate-dual-wielding"
+name = "Ultimate Dual Wielding"
+version = "1.0"
+author = ["VoidTheMage"]
+url = "https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html"
+description = "Corrige el sistema de doble empuñadura de GTA SA: ya no obliga a disparar siempre dos veces por más que mantengas el gatillo, y alterna correctamente las manos entre disparos."
+tags = ["fixes", "player"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
