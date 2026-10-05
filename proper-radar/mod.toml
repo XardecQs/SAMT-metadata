@@ -1,0 +1,28 @@
+# GTA Mod Organizer manifest — Proper Radar
+id = "junior_djjr:proper-radar"
+name = "Proper Radar"
+version = "1.3"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2022/07/proper-radar/"
+description = "Mapa de radar en HD basado en el de GTA Trilogy (Definitive Edition) y en el trabajo de Jéssica Natália, con colores clásicos corregidos. Reemplaza los radar*.txd e, incluye opcionalmente el fronten2.txd (fondo del mapa del menú en HD). Elige 512 (más nítido; puede aliarse por debajo de 1080p) o 256 (más fluido en el minimapa y sin retardo de carga). Requiere Essentials Pack."
+tags = ["interface", "map"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "variant"
+name = "Resolución"
+default = "512"
+
+  [[options.choices]]
+  key = "512"
+  name = "512 px (más nítido, por defecto)"
+
+  [[options.choices]]
+  key = "256"
+  name = "256 px (más fluido)"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

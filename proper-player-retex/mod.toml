@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Proper Player Retex
+id = "jessica_natalia:proper-player-retex"
+name = "Proper Player Retex"
+version = "3.2"
+author = ["Jéssica Natália", "Junior_Djjr", "OjTrue", "Zeneric", "Jão", "François Declasse"]
+url = "https://www.mixmods.com.br/2024/12/proper-player-retex/"
+description = "Retexturizado en HD del jugador (CJ): cuerpo, cara, ropa (incluida la del 'caballo' de la misión), tatuajes y más, manteniendo el estilo original con mayor resolución. Usa player.img, por lo que ModLoader lo carga siempre con la prioridad más baja y cualquier mod de ropa lo reemplazará; es compatible con mods de ropa de CJ a 1024px (a 512 dará crash). Requiere Essentials Pack."
+tags = ["player", "textures"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

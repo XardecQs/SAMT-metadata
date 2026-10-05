@@ -1,0 +1,38 @@
+# GTA Mod Organizer manifest — Faithful Weapons Pack 2.0
+id = "thepedro004:faithful-weapons-pack"
+name = "Faithful Weapons Pack 2.0"
+version = "2.0"
+author = ["ThePedro004", "Firefly", "Nadalao", "Ezekiel"]
+url = "https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/"
+description = "Pack de armas fiel al estilo original de GTA SA: modelos y texturas mejorados de prácticamente todas las armas y objetos de mano (de fuego, blancas, lanzables, herramientas, recogibles...). Incluye dos variantes de calidad (HD y Lite) y un pack de sonidos de armas opcional. Cada arma trae sus créditos. Requiere ModLoader."
+tags = ["weapons", "textures"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "variant"
+name = "Calidad"
+default = "hd"
+
+  [[options.choices]]
+  key = "hd"
+  name = "HD (por defecto)"
+
+  [[options.choices]]
+  key = "lite"
+  name = "Lite (más ligero)"
+
+[[options]]
+group = "sounds"
+name = "Sonidos"
+default = "off"
+
+  [[options.choices]]
+  key = "off"
+  name = "Sin sonidos (por defecto)"
+
+  [[options.choices]]
+  key = "on"
+  name = "Instalar sonidos de armas"

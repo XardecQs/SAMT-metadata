@@ -35,6 +35,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
+| `faithful-weapons-pack` | ThePedro004, Firefly, Nadalao, Ezekiel | <https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/> |
 | `gasoline-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
 | `gear-control` | Asen, FilipeS, Junior_Djjr | <https://libertycity.net/files/gta-san-andreas/184195-gear-control.html> |
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
@@ -45,6 +46,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
 | `imvehft` | DK22Pac, Function-X-, Junior_Djjr | <https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/> |
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
+| `manual-driveby-refixed` | CatchyKetchup, ThirteenAG, Junior_Djjr, ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html> |
 | `manual-mouse-shift-gears` | FilipeS, Junior_Djjr | <https://www.mixmods.com.br/2021/09/manual-mouse-shift-gears-mod-v0-4-trocar-marcha-usando-mouse/> |
 | `mixsets` | Junior_Djjr | <https://www.mixmods.com.br/2022/03/sa-mixsets> |
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
@@ -57,6 +59,8 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `project-web-anims` | Desmito, Junior_Djjr, _AG, NoxchoBoy | <https://www.mixmods.com.br/2022/04/sa-project-web-anims/> |
 | `project2dfx` | ThirteenAG, TJGM | <https://www.mixmods.com.br/2020/02/sa-project2dfx/> |
 | `proper-fixes` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/06/sa-proper-fixes/> |
+| `proper-player-retex` | Jéssica Natália, Junior_Djjr, OjTrue, Zeneric, Jão, François Declasse | <https://www.mixmods.com.br/2024/12/proper-player-retex/> |
+| `proper-radar` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/proper-radar/> |
 | `proper-shaders` | MixMods, Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/05/sa-proper-shaders> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
 | `rosa-evolved` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
