@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — FxsFuncs
+id = "junior_djjr:fxs-funcs"
+name = "FxsFuncs"
+version = "1.2"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2025/06/fxsfuncs/"
+description = "Plugin (ASI) que mejora el sistema de efectos especiales de GTA SA: sube el límite de efectos (evita cierres con mods de efectos complejos), corrige una fuga de memoria original, colorea los efectos según la niebla lejana, arregla la lluvia a FPS altos/bajos y reactiva la colisión de efectos con las superficies (p. ej. casquillos). Es una base para mods de efectos (especialmente los de Ezekiel) y se configura en FxsFuncs.ini. Requiere Essentials Pack (ASI Loader). Se permite incluirlo en recopilaciones manteniendo créditos."
+tags = ["effects", "tools"]
+cover = "cover.png"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

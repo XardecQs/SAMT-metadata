@@ -1,0 +1,27 @@
+# GTA Mod Organizer manifest — Enhance ParticleTXD
+id = "junior_djjr:enhance-particle-txd"
+name = "Enhance ParticleTXD"
+version = "1.0"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2016/03/enhance-particletxd/"
+description = "Script CLEO que aprovecha al máximo las texturas de particle.txd: variaciones extra de explosiones, sangre, huellas, humo y luces de faros/linterna, además de funciones útiles, todo configurable en su .ini. No necesita un particle.txd modificado (funciona con el original) pero incluye uno de ejemplo listo para usar; se recomienda junto a ECG. Con MixSets, no configures las opciones de faros (ya están aquí). Requiere Essentials Pack (CLEO)."
+tags = ["effects", "graphics"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+
+[[options]]
+group = "lang"
+name = "Idioma"
+default = "en"
+
+  [[options.choices]]
+  key = "en"
+  name = "English"
+
+  [[options.choices]]
+  key = "pt"
+  name = "Português (BR)"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

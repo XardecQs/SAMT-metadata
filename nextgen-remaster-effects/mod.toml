@@ -1,0 +1,16 @@
+# GTA Mod Organizer manifest — NextGen Remaster Effects
+id = "ezekiel:nextgen-remaster-effects"
+name = "NextGen Remaster Effects"
+version = "2022-10-28"
+author = ["Ezekiel", "Junior_Djjr"]
+url = "https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/"
+description = "El gran mod de efectos especiales realistas en HD para GTA SA: explosiones, humo, agua con luz suave parecida a shaders, lluvia realista, efectos bajo el agua y efectos específicos colocados en zonas del mapa y misiones. Usa el sistema original del juego, por lo que es compatible con otros mods gráficos. Requiere Open Limit Adjuster, CLEO+ (Essentials Pack) y FxsFuncs; recomendados Enhance ParticleTXD y MixSets (RhinoFireType=3). No instalar junto a otro mod que cambie EffectsPC.txd/particle.txd."
+tags = ["effects", "graphics"]
+cover = "cover.jpg"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster", "junior_djjr:fxs-funcs"]
+optional = ["junior_djjr:enhance-particle-txd", "junior_djjr:mixsets"]

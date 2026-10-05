@@ -33,9 +33,11 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
 | `drive-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
+| `enhance-particle-txd` | Junior_Djjr | <https://www.mixmods.com.br/2016/03/enhance-particletxd/> |
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `faithful-weapons-pack` | ThePedro004, Firefly, Nadalao, Ezekiel | <https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/> |
+| `fxs-funcs` | Junior_Djjr | <https://www.mixmods.com.br/2025/06/fxsfuncs/> |
 | `gasoline-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
 | `gear-control` | Asen, FilipeS, Junior_Djjr | <https://libertycity.net/files/gta-san-andreas/184195-gear-control.html> |
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
@@ -52,6 +54,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
 | `more-radar-icons` | Junior_Djjr, rill_ | <https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
+| `nextgen-remaster-effects` | Ezekiel, Junior_Djjr | <https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/> |
 | `oil-leaking` | Junior_Djjr | <https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/> |
 | `open-limit-adjuster` | LINK/2012, ThirteenAG, Blackbird88 | <https://www.mixmods.com.br/2022/10/open-limit-adjuster> |
 | `peds-and-vehs-mesh-smoothed` | Zeneric | <https://www.nexusmods.com/gtasanandreas/mods/3075> |
