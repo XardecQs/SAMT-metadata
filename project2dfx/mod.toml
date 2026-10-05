@@ -10,7 +10,6 @@ cover = "cover.jpg"
 mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]
-cover = "cover.jpg"
 
 # Al menos uno de estos debe estar activo (mods gráficos con los que encaja).
 requires_any = ["junior_djjr:improved-streaming", "enhanced-classic-graphics"]
