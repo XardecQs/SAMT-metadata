@@ -96,3 +96,4 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `void-ultimate-aim-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243919-void-ultimate-aim-system.html> |
 | `void-weapon-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html> |
 | `weapon-drop-n-save` | MKKJ | <https://www.mixmods.com.br/2019/12/weapon-drop-n-save-v1-3-largar-e-salvar-armas/> |
+| `weapon-recoil-auto` | HzanRsxa2959 | <https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/> |
