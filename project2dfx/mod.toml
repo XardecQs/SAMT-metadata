@@ -17,6 +17,7 @@ requires_any = ["junior_djjr:improved-streaming", "enhanced-classic-graphics"]
 [[options]]
 group = "preset"
 name = "Configuración"
+default = "optimized-default"
 
   [[options.choices]]
   key = "optimized-default"

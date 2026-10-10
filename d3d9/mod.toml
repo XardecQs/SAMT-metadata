@@ -1,7 +1,7 @@
 # GTA Mod Organizer manifest
 id = "doitsujin:d3d9"
 name = "DXVK - d3d9.dll"
-version = "3.1"
+version = "3.1.1"
 author = ["doitsujin"]
 url = "https://github.com/doitsujin/dxvk"
 description = "A Vulkan-based translation layer for DirectX 9 which allows running 3D applications on Linux using Wine."

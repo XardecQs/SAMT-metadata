@@ -1,31 +1,15 @@
-id = "zzpuma:veh-deform"            # id estable (autor + nombre, ambos en minusculas)
+# GTA Mod Organizer manifest — VehDeform
+id = "zzpuma:veh-deform"
 name = "VehDeform"
 version = "1.3c"
-author = ["ZZPuma"]           # string o lista
+author = ["ZZPuma"]
 url = "https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros"
 description = "¡Los coches del juego se deformarán dinámicamente al impactar, de forma realista!"
-tags = ["vehicles"]      # para organizar/filtrar
-
-# Carátula y guías (rutas relativas dentro de esta carpeta)
+tags = ["vehicles"]
 cover = "cover.webp"
+mount = ["content"]
 guides = ["guides"]
-
-# Galería de imágenes extra: una carpeta (se expande) o una lista de rutas.
 screenshots = ["screenshots"]
 
-# Subdirectorios cuyo CONTENIDO se monta sobre la raíz del juego.
-# Sin esta clave se monta la carpeta entera (comportamiento por defecto).
-mount = ["content"]
-
-# Dependencias (referencias por id autor:slug o por carpeta)
 [dependencies]
-required = ["mixmods:essentials-pack"]      # sin esto el mod no funciona
-# optional = []
-
-# Si es un pack de mods, lista sus componentes (solo metadata)
-# [[components]]
-# name = "Componente"
-# version = "1.0.0"
-# author = "Autor"
-# url = "https://..."
-# path = "content/carpeta-del-componente"
+required = ["mixmods:essentials-pack"]

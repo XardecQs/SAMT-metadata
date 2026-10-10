@@ -39,6 +39,7 @@ path = "content/CLEO"
 [[components]]
 name = "CLEO+"
 url = "https://www.mixmods.com.br/2020/03/CLEOPlus.html"
+path = "content/CLEO"
 
 [[components]]
 name = "CrashInfo"

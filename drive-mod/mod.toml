@@ -1,32 +1,17 @@
-id = "artem1996:drive-mod"            # id estable (autor + nombre, ambos en minusculas)
+# GTA Mod Organizer manifest — DrIVe Mod
+id = "artem1996:drive-mod"
 name = "DrIVe Mod"
 version = "3.0"
-author = ["Artem1996"]           # string o lista
+author = ["Artem1996"]
 url = "https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html"
 description = "Añade animaciones al estilo GTA IV: robar coches rompiendo la ventana o forzando la cerradura (con minijuego), arrancar el motor, inclinarse al frenar, girar el volante, cambiar de marcha, freno de mano, claxon, abrir la ventanilla y animaciones AFK dentro del vehículo."
-# tags = ["tag1", "tag2"]      # para organizar/filtrar
-
-# Carátula y guías (rutas relativas dentro de esta carpeta)
+tags = ["vehicles", "anims"]
 cover = "cover.webp"
 guides = ["guides"]
-
-# Galería de imágenes extra: una carpeta (se expande) o una lista de rutas.
 screenshots = ["screenshots"]
-
-# Subdirectorios cuyo CONTENIDO se monta sobre la raíz del juego.
-# Sin esta clave se monta la carpeta entera (comportamiento por defecto).
 mount = ["content"]
 
 requires_any = ["junior_djjr:mixsets", "aap:sa-skygfx-extended", "mixmods:proper-fixes", "junior_djjr:improved-streaming"]
-# Dependencias (referencias por id autor:slug o por carpeta)
-[dependencies]
-required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]      # sin esto el mod no funciona
-# optional = []
 
-# Si es un pack de mods, lista sus componentes (solo metadata)
-# [[components]]
-# name = "Componente"
-# version = "1.0.0"
-# author = "Autor"
-# url = "https://..."
-# path = "content/carpeta-del-componente"
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

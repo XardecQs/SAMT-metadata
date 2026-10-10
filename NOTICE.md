@@ -78,7 +78,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-styled-speedometer` | rill_ | <https://libertycity.net/files/gta-san-andreas/220739-sa-styled-speedometer.html> |
 | `sa-wind-farm` | Junior_Djjr, Sket_h, Jéssica Natália | <https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/> |
 | `scr-log` | LINK/2012, Junior_Djjr | <https://www.mixmods.com.br/2020/09/scrlog.html> |
-| `the-weapon-is-on-the-player` | Artem.1.9.9.6 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
+| `the-weapon-is-on-the-player` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
 | `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |

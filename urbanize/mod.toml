@@ -13,6 +13,7 @@ guides = ["guides"]
 [[options]]
 group = "preset"
 name = "Preset"
+default = "medium"
 
   [[options.choices]]
   key = "low"

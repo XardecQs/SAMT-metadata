@@ -1,31 +1,15 @@
-id = "perf:ebisu-minami"            # id estable (autor + nombre, ambos en minusculas)
+# GTA Mod Organizer manifest — Ebisu Minami
+id = "perf:ebisu-minami"
 name = "Ebisu Minami (pista de drift)"
 version = "2020-09-21"
-author = ["Perf", "Junior_Djjr"]           # string o lista
+author = ["Perf", "Junior_Djjr"]
 url = "https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift"
 description = "Pista de drift japonesa de Ebisu, más concretamente, Minami, con modelo y texturas en HD."
-tags = ["maps", "objects"]      # para organizar/filtrar
-
-# Carátula y guías (rutas relativas dentro de esta carpeta)
+tags = ["maps", "objects"]
 cover = "cover.jpg"
+mount = ["content"]
 guides = ["guides"]
-
-# Galería de imágenes extra: una carpeta (se expande) o una lista de rutas.
 screenshots = ["screenshots"]
 
-# Subdirectorios cuyo CONTENIDO se monta sobre la raíz del juego.
-# Sin esta clave se monta la carpeta entera (comportamiento por defecto).
-mount = ["content"]
-
-# Dependencias (referencias por id autor:slug o por carpeta)
 [dependencies]
-required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]      # sin esto el mod no funciona
-# optional = []
-
-# Si es un pack de mods, lista sus componentes (solo metadata)
-# [[components]]
-# name = "Componente"
-# version = "1.0.0"
-# author = "Autor"
-# url = "https://..."
-# path = "content/carpeta-del-componente"
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

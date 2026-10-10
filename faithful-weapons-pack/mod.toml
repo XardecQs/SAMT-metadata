@@ -36,3 +36,6 @@ default = "off"
   [[options.choices]]
   key = "on"
   name = "Instalar sonidos de armas"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

@@ -5,6 +5,7 @@ version = "2014-02-24"
 author = ["LINK/2012"]
 url = "https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012"
 description = "¡3 SEGUNDOS! Eso es todo lo que te separa de abrir GTA y empezar a jugar."
+tags = ["tools", "fixes"]
 cover = "cover.jpg"
 mount = ["content"]
 guides = ["guides"]

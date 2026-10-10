@@ -13,6 +13,7 @@ guides = ["guides"]
 [[options]]
 group = "preset"
 name = "Preset de calidad"
+default = "medium"
 
   [[options.choices]]
   key = "only-improvements"

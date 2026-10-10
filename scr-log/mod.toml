@@ -39,3 +39,6 @@ default = "3"
   [[options.choices]]
   key = "5"
   name = "5 · Toda la información siempre (muy lento)"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
