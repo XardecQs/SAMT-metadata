@@ -29,8 +29,10 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
 | `bullet-time` | xardec, RitrS | <https://github.com/XardecQs/samt-nix> |
 | `busy-pedestrians` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
+| `car-dealer` | rill_ | <https://libertycity.net/files/gta-san-andreas/229707-car-dealer.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `combat-fx-upgrade` | WarButler, Junior_Djjr, Ezekiel, Function-X- | <https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/> |
+| `cop-n-threat-radar` | Silvout | <https://libertycity.net/files/gta-san-andreas/220104-cop-n-threat-radar.html> |
 | `custom-crosshairs` | HzanRsxa2959, DK22Pac | <https://www.mixmods.com.br/2022/04/customcrosshairs-personalizar-miras/> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
@@ -42,6 +44,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `enhanced-parachute` | Esquisito | <https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html> |
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `faithful-weapons-pack` | ThePedro004, Firefly, Nadalao, Ezekiel | <https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/> |
+| `faster-clothes-change` | Joneppi, Junior_Djjr, iAbokai | <https://libertycity.net/files/gta-san-andreas/236673-faster-clothes-change-revised.html> |
 | `fxs-funcs` | Junior_Djjr | <https://www.mixmods.com.br/2025/06/fxsfuncs/> |
 | `gasoline-mod` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
 | `gear-control` | Asen, FilipeS, Junior_Djjr | <https://libertycity.net/files/gta-san-andreas/184195-gear-control.html> |
@@ -67,6 +70,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `nextgen-weapon-sounds` | pedrowav, wuzimu7171_ | <https://libertycity.net/files/gta-san-andreas/230701-nextgen-weapon-sounds.html> |
 | `oil-leaking` | Junior_Djjr | <https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/> |
 | `open-limit-adjuster` | LINK/2012, ThirteenAG, Blackbird88 | <https://www.mixmods.com.br/2022/10/open-limit-adjuster> |
+| `outfit-menu` | ScarButtCheeks | <https://libertycity.net/files/gta-san-andreas/232418-outfit-menu-outfit-inventory-system.html> |
 | `peds-and-vehs-mesh-smoothed` | Zeneric | <https://www.nexusmods.com/gtasanandreas/mods/3075> |
 | `portable-gta` | aap | <https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files> |
 | `project-web-anims` | Desmito, Junior_Djjr, _AG, NoxchoBoy | <https://www.mixmods.com.br/2022/04/sa-project-web-anims/> |

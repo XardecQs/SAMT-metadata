@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Faster Clothes Change (Revised)
+id = "iabokai:faster-clothes-change"
+name = "Faster Clothes Change (Revised)"
+version = "1.1"
+author = ["Joneppi", "Junior_Djjr", "iAbokai"]
+url = "https://libertycity.net/files/gta-san-andreas/236673-faster-clothes-change-revised.html"
+description = "Acelera el cambio de ropa en las tiendas y en el armario, con animaciones de vestuario más rápidas (de Joneppi) sobre los scripts CLEO de Junior_Djjr, revisado por iAbokai. Requiere ModLoader y CLEO (Essentials Pack)."
+tags = ["player", "gameplay", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

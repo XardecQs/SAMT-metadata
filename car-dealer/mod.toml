@@ -1,0 +1,16 @@
+# GTA Mod Organizer manifest — Car Dealer
+id = "rill_:car-dealer"
+name = "Car Dealer"
+version = "2.0"
+author = ["rill_"]
+url = "https://libertycity.net/files/gta-san-andreas/229707-car-dealer.html"
+description = "Añade concesionarios de coches repartidos por el mapa: catálogo con marcas, estadísticas del vehículo, prueba de conducción, elección de extras, matrícula personalizada y compra. También incluye exportación de vehículos (se desbloquea tras la misión 'Custom Fast Track' y las peticiones se renuevan los lunes). Todo configurable en su .ini, con soporte de mando, iconos de botones y traducción PT-BR. Requiere ModLoader, CLEO 4.4.4 y CLEO+. Con VehFuncs instalado se habilitan los extras 'Extras 3'/seed."
+tags = ["vehicles", "gameplay", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["junior_djjr:veh-funcs"]
