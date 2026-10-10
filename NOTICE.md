@@ -52,6 +52,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
 | `imfx` | DK22Pac, Function-X- | <https://www.mixmods.com.br/2018/09/IMFX.html> |
 | `imvehft` | DK22Pac, Function-X-, Junior_Djjr | <https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/> |
+| `keep-no-ammo` | Junior_Djjr | <https://www.mixmods.com.br/2020/03/keepnoammo-continuar-sem-municao/> |
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
 | `manual-driveby-refixed` | CatchyKetchup, ThirteenAG, Junior_Djjr, ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html> |
 | `manual-mouse-shift-gears` | FilipeS, Junior_Djjr | <https://www.mixmods.com.br/2021/09/manual-mouse-shift-gears-mod-v0-4-trocar-marcha-usando-mouse/> |
@@ -73,6 +74,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `proper-shaders` | MixMods, Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/05/sa-proper-shaders> |
 | `random-events-project` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/208204-random-events-project.html> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
+| `reload-mod` | Junior_Djjr, GillianMC | <https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/> |
 | `reloading-on-the-screen` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/231464-on-screen-reloading.html> |
 | `rosa-evolved` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
 | `sa-ginput` | Silent | <https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles> |
@@ -91,3 +93,4 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `void-radio-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html> |
 | `void-ultimate-aim-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243919-void-ultimate-aim-system.html> |
 | `void-weapon-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html> |
+| `weapon-drop-n-save` | MKKJ | <https://www.mixmods.com.br/2019/12/weapon-drop-n-save-v1-3-largar-e-salvar-armas/> |

@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Reload Mod
+id = "junior_djjr:reload-mod"
+name = "Reload Mod"
+version = "1.3"
+author = ["Junior_Djjr", "GillianMC"]
+url = "https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/"
+description = "Sistema de recarga manual de armas: recarga con una tecla (R por defecto; en pad, abajo del jugador 2) y con múltiples ajustes en su .ini (no recargar si el cargador está lleno, recarga realista descartando la munición sobrante, desactivar recarga con la rueda, desactivar recarga automática en vehículo, desactivar armas sin animación de recarga y desactivarse en SAMP). Incluye la versión Fixed de GillianMC. Compatible con Keep No Ammo activando KeepNoAmmo=1 en el .ini. Requiere CLEO (Essentials Pack)."
+tags = ["weapons", "gameplay", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["junior_djjr:keep-no-ammo"]
