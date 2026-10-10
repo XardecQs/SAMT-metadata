@@ -28,6 +28,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `atmosphere-interface-pack` | Jéssica Natália | <https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd> |
 | `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
 | `bullet-time` | xardec, RitrS | <https://github.com/XardecQs/samt-nix> |
+| `bullethole` | Ryosuke839 | <https://www.mixmods.com.br/2015/06/bullethole-buracos-de-tiros/> |
 | `busy-pedestrians` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `car-dealer` | rill_ | <https://libertycity.net/files/gta-san-andreas/229707-car-dealer.html> |
 | `car-wash` | Junior_Djjr | <https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/> |
