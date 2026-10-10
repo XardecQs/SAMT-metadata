@@ -1,0 +1,19 @@
+# GTA Mod Organizer manifest — Project2DFX SA - Distant Car Upgrade
+id = "zeneric:project2dfx-distant-car-upgrade"
+name = "Project2DFX SA - Distant Car Upgrade"
+version = "wip4"
+author = ["Zeneric"]
+url = "https://libertycity.net/files/gta-san-andreas/243275-project2dfx-sa-distant-car-upgrade.html"
+description = "Fork optimizado de Project2DFX (SALodLights) creado por Zeneric: añade tráfico lejano basado en los path-nodes del juego (con carriles, espaciado y probabilidad de aparición), luces de vehículos lejanos, maremoto marítimo, blend con la niebla/timecycle y mejor rendimiento y estabilidad. Es una alternativa a Project2DFX (mismos archivos SALodLights), no se deben activar los dos a la vez. Requiere un cargador ASI y Open Limit Adjuster (Essentials Pack)."
+tags = ["graphics"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[variant]
+group = "project2dfx"
+name = "Distant Car Upgrade (Zeneric)"
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

@@ -59,6 +59,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `manual-mouse-shift-gears` | FilipeS, Junior_Djjr | <https://www.mixmods.com.br/2021/09/manual-mouse-shift-gears-mod-v0-4-trocar-marcha-usando-mouse/> |
 | `mixsets` | Junior_Djjr | <https://www.mixmods.com.br/2022/03/sa-mixsets> |
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
+| `moderncarcam` | GillianMC | <https://libertycity.net/files/244225-moderncarcam-iii-vc-sa.html> |
 | `more-radar-icons` | Junior_Djjr, rill_ | <https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
 | `newopcodes` | DK22Pac | <https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/> |
@@ -70,6 +71,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `portable-gta` | aap | <https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-folder-mudar-pasta-user-files> |
 | `project-web-anims` | Desmito, Junior_Djjr, _AG, NoxchoBoy | <https://www.mixmods.com.br/2022/04/sa-project-web-anims/> |
 | `project2dfx` | ThirteenAG, TJGM | <https://www.mixmods.com.br/2020/02/sa-project2dfx/> |
+| `project2dfx-distant-car-upgrade` | Zeneric | <https://libertycity.net/files/gta-san-andreas/243275-project2dfx-sa-distant-car-upgrade.html> |
 | `proper-fixes` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/06/sa-proper-fixes/> |
 | `proper-player-retex` | Jéssica Natália, Junior_Djjr, OjTrue, Zeneric, Jão, François Declasse | <https://www.mixmods.com.br/2024/12/proper-player-retex/> |
 | `proper-radar` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/proper-radar/> |
@@ -77,7 +79,9 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `random-events-project` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/208204-random-events-project.html> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
 | `reload-mod` | Junior_Djjr, GillianMC | <https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/> |
+| `reload-mod-fixed` | Junior_Djjr, GillianMC | <https://libertycity.net/files/gta-san-andreas/213551-reload-mod-fixed.html> |
 | `reloading-on-the-screen` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/231464-on-screen-reloading.html> |
+| `reloadsa` | ReaperM60 | <https://libertycity.net/files/gta-san-andreas/242237-reloadsa.html> |
 | `rosa-evolved` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
 | `sa-ginput` | Silent | <https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles> |
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |

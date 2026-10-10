@@ -10,6 +10,10 @@ cover = "cover.webp"
 mount = ["content"]
 guides = ["guides"]
 
+[variant]
+group = "reload"
+name = "Reload Mod"
+
 [dependencies]
 required = ["mixmods:essentials-pack"]
 optional = ["junior_djjr:keep-no-ammo"]

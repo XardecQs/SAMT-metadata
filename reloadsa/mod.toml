@@ -1,0 +1,21 @@
+# GTA Mod Organizer manifest — ReloadSA
+id = "reaperm60:reloadsa"
+name = "ReloadSA"
+version = "2"
+author = ["ReaperM60"]
+url = "https://libertycity.net/files/gta-san-andreas/242237-reloadsa.html"
+description = "Plugin ASI que permite recargar el arma manualmente (tecla R por defecto, configurable) y es un sustituto moderno de Reload Mod: más optimizado, arregla la doble recarga y la recarga con mando a pie y en vehículo. Su v2 integra KeepNoAmmo como ajuste NoAutomaticReloads (armas vacías hasta recargar) y reproduce un clic al quedar sin munición, personalizable por slot. Sustituye tanto a Reload Mod como a Keep No Ammo. Requiere un cargador ASI (Essentials Pack)."
+tags = ["weapons", "gameplay"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[variant]
+group = "reload"
+name = "ReloadSA"
+
+conflicts = ["junior_djjr:keep-no-ammo"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

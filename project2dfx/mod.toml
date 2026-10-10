@@ -35,6 +35,11 @@ default = "optimized-default"
   key = "original"
   name = "Original"
 
+# Familia de variantes de Project2DFX (solo una activa a la vez).
+[variant]
+group = "project2dfx"
+name = "ThirteenAG"
+
 # Dependencias (referencias por id autor:slug o por carpeta)
 [dependencies]
 required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]      # sin esto el mod no funciona

@@ -1,0 +1,18 @@
+# GTA Mod Organizer manifest — Reload Mod (Fixed)
+id = "gillianmc:reload-mod-fixed"
+name = "Reload Mod (Fixed)"
+version = "2026-09-15"
+author = ["Junior_Djjr", "GillianMC"]
+url = "https://libertycity.net/files/gta-san-andreas/213551-reload-mod-fixed.html"
+description = "Versión corregida y actualizada de Reload Mod (recarga manual de armas con R o mando): arregla la doble recarga, la recarga sin munición de reserva, la recarga de armas sin animación y los problemas de recarga con mando a pie y en vehículo, y añade el ajuste DisablePickupClipRefill (no rellenar el cargador al recoger armas). Es una revisión no oficial de un tercero, separada del Reload Mod original. Compatible con Keep No Ammo (KeepNoAmmo=1 en su .ini). Requiere CLEO (Essentials Pack)."
+tags = ["weapons", "gameplay", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+
+[variant]
+group = "reload"
+name = "Reload Mod (Fixed)"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["junior_djjr:keep-no-ammo"]
