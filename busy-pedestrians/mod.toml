@@ -1,8 +1,8 @@
 # GTA Mod Organizer manifest
-id = "artem1996:busy-pedestrians"
+id = "artemqa146:busy-pedestrians"
 name = "Busy Pedestrians: Peds Events Project"
 version = "2026-09-25"
-author = ["Artem1996"]
+author = ["ArtemQa146"]
 url = "https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html"
 description = "A comprehensive mod that brings the entire San Andreas state to life!"
 tags = ["npc", "maps"]

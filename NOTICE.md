@@ -24,15 +24,16 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `90s-avp-reborn-3` | Firefly, Crowdigger, Zeneric, Junior_Djjr | <https://www.mixmods.com.br/2020/04/90s-atmosphere-vehicles-pack-reborn-3/> |
 | `advanced-nitro-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/221020-advanced-nitro-system.html> |
 | `aim-sensibility` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/> |
+| `arrest-gta-iv` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/203320-surrender-like-in-gta-4.html> |
 | `atmosphere-interface-pack` | Jéssica Natália | <https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd> |
 | `bike-flip-unleashed` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html> |
 | `bullet-time` | xardec, RitrS | <https://github.com/XardecQs/samt-nix> |
-| `busy-pedestrians` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
+| `busy-pedestrians` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `combat-fx-upgrade` | WarButler, Junior_Djjr, Ezekiel, Function-X- | <https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
-| `drive-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
+| `drive-mod` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
 | `earshot-openal` | wuzimu7171_ | <https://github.com/theartemmaps1/EarShotOpenAL> |
 | `ebisu-minami` | Perf, Junior_Djjr | <https://www.mixmods.com.br/2020/09/ebisu-minami-pista-de-drift> |
 | `enhance-particle-txd` | Junior_Djjr | <https://www.mixmods.com.br/2016/03/enhance-particletxd/> |
@@ -41,7 +42,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `faithful-weapons-pack` | ThePedro004, Firefly, Nadalao, Ezekiel | <https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/> |
 | `fxs-funcs` | Junior_Djjr | <https://www.mixmods.com.br/2025/06/fxsfuncs/> |
-| `gasoline-mod` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
+| `gasoline-mod` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
 | `gear-control` | Asen, FilipeS, Junior_Djjr | <https://libertycity.net/files/gta-san-andreas/184195-gear-control.html> |
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
 | `graphics-tweaker` | Junior_Djjr | <https://www.mixmods.com.br/2022/09/graphicstweaker> |
@@ -70,7 +71,9 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `proper-player-retex` | Jéssica Natália, Junior_Djjr, OjTrue, Zeneric, Jão, François Declasse | <https://www.mixmods.com.br/2024/12/proper-player-retex/> |
 | `proper-radar` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/proper-radar/> |
 | `proper-shaders` | MixMods, Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/05/sa-proper-shaders> |
+| `random-events-project` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/208204-random-events-project.html> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
+| `reloading-on-the-screen` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/231464-on-screen-reloading.html> |
 | `rosa-evolved` | Jéssica Natália, MixMods | <https://www.mixmods.com.br/2023/07/rosa-project-evolved-remaster-texturas-hd/> |
 | `sa-ginput` | Silent | <https://www.mixmods.com.br/2021/01/iii-vc-sa-ginput-melhor-suporte-para-controles> |
 | `sa-real-traffic-fix` | Junior_Djjr | <https://www.mixmods.com.br/2022/04/real-traffic-fix> |
@@ -78,7 +81,8 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-styled-speedometer` | rill_ | <https://libertycity.net/files/gta-san-andreas/220739-sa-styled-speedometer.html> |
 | `sa-wind-farm` | Junior_Djjr, Sket_h, Jéssica Natália | <https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/> |
 | `scr-log` | LINK/2012, Junior_Djjr | <https://www.mixmods.com.br/2020/09/scrlog.html> |
-| `the-weapon-is-on-the-player` | Artem1996 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
+| `sleek-hitmarkers` | pedrowav | <https://libertycity.net/files/gta-san-andreas/230896-fomod-sleekhitmarkers.html> |
+| `the-weapon-is-on-the-player` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
 | `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |

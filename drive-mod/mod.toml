@@ -1,8 +1,8 @@
 # GTA Mod Organizer manifest — DrIVe Mod
-id = "artem1996:drive-mod"
+id = "artemqa146:drive-mod"
 name = "DrIVe Mod"
 version = "3.0"
-author = ["Artem1996"]
+author = ["ArtemQa146"]
 url = "https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html"
 description = "Añade animaciones al estilo GTA IV: robar coches rompiendo la ventana o forzando la cerradura (con minijuego), arrancar el motor, inclinarse al frenar, girar el volante, cambiar de marcha, freno de mano, claxon, abrir la ventanilla y animaciones AFK dentro del vehículo."
 tags = ["vehicles", "anims"]

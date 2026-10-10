@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Reloading on the Screen
+id = "artemqa146:reloading-on-the-screen"
+name = "Reloading on the Screen"
+version = "2.1"
+author = ["ArtemQa146"]
+url = "https://libertycity.net/files/gta-san-andreas/231464-on-screen-reloading.html"
+description = "Muestra en pantalla el progreso de recarga del arma, con un estilo propio de los juegos modernos. En el .ini puedes configurar el tamaño, activar o desactivar el icono cuando no apuntas, la posición del icono, el color de la barra de progreso, el icono de munición, mantener la mira activada y recargar los ajustes con un truco. Adaptado a las animaciones del Immersive Weapons Pack y a Weapon Details (versión light). Requiere CLEO+."
+tags = ["weapons", "interface", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

@@ -1,8 +1,8 @@
 # GTA Mod Organizer manifest — The Weapon Is on the Player
-id = "artem1996:the-weapon-is-on-the-player"
+id = "artemqa146:the-weapon-is-on-the-player"
 name = "The Weapon Is on the Player"
 version = "3.0"
-author = ["Artem1996"]
+author = ["ArtemQa146"]
 url = "https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html"
 description = "Muestra el arma primaria y secundaria en el cuerpo de CJ (y oculares de visión nocturna, nudillos, paracaídas, cuchillo, katana y armas arrojadizas). Todo configurable por .ini; incluye los códigos WEAPONOFF/WEAPONON. Funciona en SAMP."
 tags = ["cleo", "player"]

@@ -34,4 +34,4 @@ default = "circular-right"
 
 [dependencies]
 required = ["mixmods:essentials-pack"]
-optional = ["artem1996:gasoline-mod", "void:advanced-nitro-system", "junior_djjr:veh-funcs"]
+optional = ["artemqa146:gasoline-mod", "void:advanced-nitro-system", "junior_djjr:veh-funcs"]

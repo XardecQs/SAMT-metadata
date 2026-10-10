@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest — Arrest Like in GTA IV
+id = "artemqa146:arrest-gta-iv"
+name = "Arrest Like in GTA IV"
+version = "1.1"
+author = ["ArtemQa146"]
+url = "https://libertycity.net/files/gta-san-andreas/203320-surrender-like-in-gta-4.html"
+description = "Te permite rendirte ante la policía con un nivel de búsqueda si te quedas quieto, como en GTA IV. Si cambias de opinión durante la animación, pulsa espacio para detenerla. Sólo puedes rendirte si no llevas un arma de fuego o arrojadiza en las manos. Requiere CLEO (Essentials Pack)."
+tags = ["player", "gameplay", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

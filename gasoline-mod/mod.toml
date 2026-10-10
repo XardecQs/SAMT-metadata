@@ -1,8 +1,8 @@
 # GTA Mod Organizer manifest — Gasoline Mod
-id = "artem1996:gasoline-mod"
+id = "artemqa146:gasoline-mod"
 name = "Gasoline Mod"
 version = "3.1"
-author = ["Artem1996"]
+author = ["ArtemQa146"]
 url = "https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html"
 description = "Añade combustible a coches, motos, barcos y aeronaves, con estaciones de servicio señalizadas, escenas de repostaje (empleado en ciudad, CJ en zonas rurales), consumo según acelerador/velocidad, bidón de gasolina, avisos e iconos, y muchas opciones visuales en el .ini. Compatible con Proper Fixes (repostaje) y Urbanize (misión); con Oil Leaking activo, la gasolina se consume más rápido al fugar aceite. Requiere CLEO+."
 tags = ["vehicles", "gameplay"]

@@ -1,0 +1,36 @@
+# GTA Mod Organizer manifest — Sleek Hitmarkers
+id = "pedrowav:sleek-hitmarkers"
+name = "Sleek Hitmarkers"
+version = "1.4"
+author = ["pedrowav"]
+url = "https://libertycity.net/files/gta-san-andreas/230896-fomod-sleekhitmarkers.html"
+description = "Sistema de hitmarkers moderno para GTA SA: feedback visual y sonoro al impactar (incluidos impactos en armadura, headshot y kill), con iconos y sonidos personalizables a través de su .ini y cuatro presets estilo Call of Duty. Créditos: rill_ (correcciones) y Reaper (ayuda con la mira). Requiere CLEO y CLEO+."
+tags = ["weapons", "interface", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[[options]]
+group = "preset"
+name = "Preset"
+default = "default"
+
+  [[options.choices]]
+  key = "default"
+  name = "Default"
+
+  [[options.choices]]
+  key = "bo6"
+  name = "Black Ops 6"
+
+  [[options.choices]]
+  key = "mw2019"
+  name = "Modern Warfare 2019"
+
+  [[options.choices]]
+  key = "mwiii"
+  name = "Modern Warfare III"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

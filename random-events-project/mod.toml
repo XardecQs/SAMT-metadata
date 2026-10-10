@@ -1,0 +1,16 @@
+# GTA Mod Organizer manifest — Random Events Project
+id = "artemqa146:random-events-project"
+name = "Random Events Project"
+version = "1.1"
+author = ["ArtemQa146"]
+url = "https://libertycity.net/files/gta-san-andreas/208204-random-events-project.html"
+description = "Añade eventos aleatorios al estilo GTA V y RDR2 por todo San Andreas. La mayoría tienen varios desenlaces según lo que hagas (o no hagas), con pequeñas cutscenes, voces tomadas de GTA V y recompensas inmediatas, tardías o inexistentes. Al acercarte al lugar aparece un signo de interrogación en el mapa; en Settings.ini eliges si el progreso se guarda o se reinicia al reiniciar. No recomendado junto al mod Ragdoll. Requiere CLEO+ y Open Limit Adjuster; se recomiendan MixSets, SkyGfx, Proper Fixes e Improved Streaming."
+tags = ["gameplay", "npc", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]
+optional = ["junior_djjr:mixsets", "aap:sa-skygfx-extended", "mixmods:proper-fixes", "junior_djjr:improved-streaming"]
