@@ -99,6 +99,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
 | `trunk-store-weapons` | Junior_Djjr | <https://www.mixmods.com.br/2021/04/trunk-store-weapons-guardar-armas-no-porta-malas/> |
 | `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |
+| `ultimate-fp` | peter_99 | <https://www.patreon.com/peter_99/posts/ultimate-first-7-167366898> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |
 | `veh-deform` | ZZPuma | <https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros> |
 | `veh-funcs` | Junior_Djjr, Fabio | <https://www.mixmods.com.br/2025/12/sa-vehfuncs/> |
