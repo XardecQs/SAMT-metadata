@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Car Wash
+id = "junior_djjr:car-wash"
+name = "Car Wash"
+version = "2.2"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/"
+description = "Añade lavaderos de coches funcionales repartidos por San Andreas: acércate con el vehículo y se lavará automáticamente. Las ubicaciones se marcan con un blip de coche en el radar (configurable o desactivable en el .ini, incluyendo el sprite). Requiere CLEO+ (Essentials Pack)."
+tags = ["vehicles", "gameplay", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

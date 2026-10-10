@@ -30,6 +30,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `bullet-time` | xardec, RitrS | <https://github.com/XardecQs/samt-nix> |
 | `busy-pedestrians` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `car-dealer` | rill_ | <https://libertycity.net/files/gta-san-andreas/229707-car-dealer.html> |
+| `car-wash` | Junior_Djjr | <https://www.mixmods.com.br/2020/08/car-wash-v2-2-lava-rapido-funcional/> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `combat-fx-upgrade` | WarButler, Junior_Djjr, Ezekiel, Function-X- | <https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/> |
 | `cop-n-threat-radar` | Silvout | <https://libertycity.net/files/gta-san-andreas/220104-cop-n-threat-radar.html> |
@@ -96,6 +97,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sleek-hitmarkers` | pedrowav | <https://libertycity.net/files/gta-san-andreas/230896-fomod-sleekhitmarkers.html> |
 | `the-weapon-is-on-the-player` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
+| `trunk-store-weapons` | Junior_Djjr | <https://www.mixmods.com.br/2021/04/trunk-store-weapons-guardar-armas-no-porta-malas/> |
 | `ultimate-dual-wielding` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html> |
 | `urbanize` | Junior_Djjr | <https://www.mixmods.com.br/2026/02/urbanize> |
 | `veh-deform` | ZZPuma | <https://www.mixmods.com.br/2025/06/sa-vehdeform-amassar-carros> |
