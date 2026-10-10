@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest — Custom Crosshairs
+id = "hzanrsxa2959:custom-crosshairs"
+name = "Custom Crosshairs"
+version = "2.0"
+author = ["HzanRsxa2959", "DK22Pac"]
+url = "https://www.mixmods.com.br/2022/04/customcrosshairs-personalizar-miras/"
+description = "Permite personalizar las miras del juego. Ya viene configurado con 5 texturas y tres perfiles (default, default2x y default4x, a distintos tamaños), y puedes editar los .png y el .ini de la carpeta del mod. También soporta miras dentro del .txd del arma (textura llamada 'customcrosshair'). Requiere NewOpcodes.cleo y CLEO (Essentials Pack). Recarga los ajustes con el truco RSCCH."
+tags = ["weapons", "interface", "cleo"]
+cover = "cover.webp"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack", "dk22pac:newopcodes"]

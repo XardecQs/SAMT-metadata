@@ -31,6 +31,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `busy-pedestrians` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/199982-busy-pedestrians-peds-events-project.html> |
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `combat-fx-upgrade` | WarButler, Junior_Djjr, Ezekiel, Function-X- | <https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/> |
+| `custom-crosshairs` | HzanRsxa2959, DK22Pac | <https://www.mixmods.com.br/2022/04/customcrosshairs-personalizar-miras/> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
 | `drive-mod` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/200275-drive-mod.html> |
@@ -60,6 +61,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `mobile-font-fixed` | War Drum Studios, Junior_Djjr | <https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida> |
 | `more-radar-icons` | Junior_Djjr, rill_ | <https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
+| `newopcodes` | DK22Pac | <https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/> |
 | `nextgen-remaster-effects` | Ezekiel, Junior_Djjr | <https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/> |
 | `nextgen-weapon-sounds` | pedrowav, wuzimu7171_ | <https://libertycity.net/files/gta-san-andreas/230701-nextgen-weapon-sounds.html> |
 | `oil-leaking` | Junior_Djjr | <https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/> |
