@@ -20,7 +20,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 
 | Mod | Autoría | Fuente |
 |---|---|---|
-| `24h-timecycle` | aap | <https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas> |
+| `24h-timecycle` | aap (The Hero) | <https://www.mixmods.com.br/2017/08/24h-timecycle-timecyc-dat-de-24-horas> |
 | `90s-avp-reborn-3` | Firefly, Crowdigger, Zeneric, Junior_Djjr | <https://www.mixmods.com.br/2020/04/90s-atmosphere-vehicles-pack-reborn-3/> |
 | `advanced-nitro-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/221020-advanced-nitro-system.html> |
 | `aim-sensibility` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/> |
