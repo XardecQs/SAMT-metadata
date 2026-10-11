@@ -31,5 +31,4 @@
 !/LICENSE
 
 # Script de mantenimiento (conversión de imágenes a AVIF).
-!/tools/
-!/tools/**
+!/to-avif.sh

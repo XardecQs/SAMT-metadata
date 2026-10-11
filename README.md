@@ -52,7 +52,7 @@ mods/<slug>/
   espacios, paréntesis, guiones bajos ni acentos. La versión va solo en
   `mod.toml`.
 - **Carátula**: siempre `cover.avif` (el nombre base es siempre `cover`). Las
-  imágenes se convierten con `tools/to-avif.sh` (avifenc, calidad 75).
+  imágenes se convierten con `./to-avif.sh` (avifenc, calidad 75).
 - **Capturas**: siempre la carpeta `screenshots/`, y en el manifiesto
   `screenshots = ["screenshots"]`.
 - **Opciones**: `options/<grupo>/<valor>/` con el contenido game-relative que se

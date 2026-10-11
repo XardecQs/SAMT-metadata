@@ -4,7 +4,7 @@
 # borrarlos.
 #
 # Uso:
-#   nix shell nixpkgs#libavif -c bash tools/to-avif.sh [-q 75] [-j N] [-n] [-b DIR]
+#   nix shell nixpkgs#libavif -c bash to-avif.sh [-q 75] [-j N] [-n] [-b DIR]
 #
 # Opciones:
 #   -q, --quality N   Calidad AVIF 0-100 (def. 75).
