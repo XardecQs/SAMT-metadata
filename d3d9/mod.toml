@@ -7,5 +7,5 @@ url = "https://github.com/doitsujin/dxvk"
 description = "A Vulkan-based translation layer for DirectX 9 which allows running 3D applications on Linux using Wine."
 license = "zlib"
 tags = ["graphics"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]

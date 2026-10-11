@@ -6,7 +6,7 @@ author = ["pedrowav", "wuzimu7171_"]
 url = "https://libertycity.net/files/gta-san-andreas/230701-nextgen-weapon-sounds.html"
 description = "Pack de sonidos de armas realistas (sampleados de Call of Duty: Modern Warfare) para el motor EarShot OpenAL: disparo, recarga, dry-fire y low-ammo para 13 armas (AK47, M4, MP5, pistolas, escopetas, sniper...), más ricochetes genéricos. Requiere EarShot OpenAL y Essentials Pack. Incluye el CLEO Dynamic Weapon Draw Sounds (sonidos al desenfundar/apuntar) y una variante de recargas para el Immersive Weapons Pack. El alsoft.ini propio del pack queda en extras/optional."
 tags = ["weapons", "audio"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

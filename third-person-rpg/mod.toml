@@ -6,7 +6,7 @@ author = ["VoidTheMage"]
 url = "https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html"
 description = "Permite usar lanzacohetes en tercera persona para todos los RPG (incluido el Heat Seeker), alternar 1ª/3ª persona al vuelo, zoom ajustable en 1ª persona, tamaño y separación del punto de mira, ajuste de los FX, efecto giratorio del proyectil y velocidad/duración del misil. Compatible con Void Ultimate Aim System y Ultimate First Person."
 tags = ["player", "gameplay"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

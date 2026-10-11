@@ -15,8 +15,8 @@ Para cada mod, dentro de `mods/<slug>/`:
 | Ruta               | Descripción                                        |
 |--------------------|----------------------------------------------------|
 | `mod.toml`         | Manifiesto (metadatos, `mount`, dependencias, etc.) |
-| `cover.<ext>`      | Carátula del mod (`cover.jpg` / `cover.png` / `cover.webp`) |
-| `screenshots/**`   | Galería de capturas                                |
+| `cover.<ext>`      | Carátula del mod (`cover.avif`) |
+| `screenshots/**`   | Galería de capturas (AVIF; algún `.gif` animado) |
 
 Todo lo demás se ignora (ver `.gitignore`): `content/`, `modloader/`,
 `extras/`, `guides/`, etc.
@@ -51,8 +51,8 @@ mods/<slug>/
 - **Carpeta del mod**: `slug` en minúsculas, kebab-case, sin versión, sin
   espacios, paréntesis, guiones bajos ni acentos. La versión va solo en
   `mod.toml`.
-- **Carátula**: siempre `cover.jpg` / `cover.png` / `cover.webp` (se conserva el
-  formato original, pero el nombre base es siempre `cover`).
+- **Carátula**: siempre `cover.avif` (el nombre base es siempre `cover`). Las
+  imágenes se convierten con `tools/to-avif.sh` (avifenc, calidad 75).
 - **Capturas**: siempre la carpeta `screenshots/`, y en el manifiesto
   `screenshots = ["screenshots"]`.
 - **Opciones**: `options/<grupo>/<valor>/` con el contenido game-relative que se

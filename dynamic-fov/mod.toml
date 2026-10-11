@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2020/09/dynamic-fov/"
 description = "El campo de visión (FOV) de la cámara aumenta al mirar hacia arriba (estilo GTA IV), dando más sensación de profundidad. Recreado con funciones de ease de CLEO+, con transición suave y sin los bugs de apuntado/cutscenes del original de uokka. Configurable en el .ini. Requiere CLEO+."
 tags = ["graphics", "player"]
-cover = "cover.jpg"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

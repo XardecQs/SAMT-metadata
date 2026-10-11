@@ -6,7 +6,7 @@ author = ["HzanRsxa2959"]
 url = "https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/"
 description = "Añade retroceso (recoil) a las armas al disparar, calculado de forma dinámica según su precisión y otros modificadores opcionales (tipo de disparo, grupo de animación, ID del arma, longitud) y reducido si el jugador está quieto o agachado; cada arma se siente distinta. Todo se ajusta en su .ini, incluida la opción de desactivar el ensanchado de la mira (bNoCrosshairSpread). Recarga los ajustes con el truco RSWRA. Requiere CLEO (Essentials Pack)."
 tags = ["weapons", "gameplay", "cleo"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

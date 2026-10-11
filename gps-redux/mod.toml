@@ -6,7 +6,7 @@ author = ["juicermv"]
 url = "https://www.mixmods.com.br/2022/10/sa-gps-redux"
 description = "Nueva versión del mod de mapa GPS para GTA San Andreas. En esta nueva versión, por fin aparecerá el camino hacia los objetivos de la misión"
 tags = ["interface"]
-cover = "cover.jpg"
+cover = "cover.avif"
 mount = ["content"]
 screenshots = ["screenshots"]
 

@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2026/07/improved-streaming"
 description = "Este mod, anteriormente conocido como 'Load Whole Map', precarga los archivos del juego para mejorar el uso de la RAM, reduciendo así el espacio en disco y los costes de procesamiento. Esto soluciona los 'agujeros' azules en el mapa causados por la lentitud de carga de los objetos. También corrige o previene los tirones, los picos de latencia y los parpadeos durante el juego."
 tags = ["fixes"]
-cover = "cover.jpg"
+cover = "cover.avif"
 mount = ["content"]
 
 [dependencies]

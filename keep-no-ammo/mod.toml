@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2020/03/keepnoammo-continuar-sem-municao/"
 description = "Complemento (ASI + CLEO) que hace que el cargador no se recargue solo: al gastar la munición quedas con el arma vacía y debes recargar manualmente, para un comportamiento más realista. Compatible con Reload Mod (activa la opción KeepNoAmmo=1 en su .ini, que fuerza además DisableScrollReload). No funciona bien junto al disparo manual. Requiere ModLoader y CLEO (Essentials Pack)."
 tags = ["weapons", "gameplay", "cleo"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

@@ -6,6 +6,6 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/"
 description = "Un pequeño mod que modifica el archivo 'surface.dat' del juego para lograr una física de fricción ligeramente más realista en GTA SA."
 tags = ["fixes"]
-cover = "cover.jpg"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]

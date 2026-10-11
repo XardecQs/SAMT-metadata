@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2021/04/trunk-store-weapons-guardar-armas-no-porta-malas/"
 description = "Permite guardar armas en el maletero del coche: al estar cerca del maletero (solo si el vehículo es tuyo y tiene maletero) aparece un aviso 'Press G' (o el botón equivalente de mando) para abrirlo y guardar/sacar armas. En su .ini se puede desactivar el texto. Incluye el .ifp de apertura de maletero a mano y está adaptado a mando y 2 jugadores. Limitación: las armas guardadas aún no se guardan con el coche en el garaje. Opcionalmente se pueden activar nombres de armas personalizados. Requiere CLEO+ (Essentials Pack)."
 tags = ["weapons", "vehicles", "cleo"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

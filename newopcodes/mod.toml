@@ -6,7 +6,7 @@ author = ["DK22Pac"]
 url = "https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/"
 description = "Plugin de CLEO que añade nuevos opcodes para que otros scripts CLEO puedan usarlos; por sí solo no hace nada. CLEO+ incluye parte de su funcionalidad como compatibilidad hacia atrás, y ambos son compatibles. Lo requiere, por ejemplo, Custom Crosshairs. Requiere CLEO (Essentials Pack)."
 tags = ["tools", "cleo"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

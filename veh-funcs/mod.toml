@@ -6,7 +6,7 @@ author = ["Junior_Djjr", "Fabio"]
 url = "https://www.mixmods.com.br/2025/12/sa-vehfuncs/"
 description = "Framework que da funciones avanzadas a los coches añadidos (suspensión, faros, volante, agujas digitales, etc.) y sustituye a IndieVehicles. Incluye gsx.asi; no lo dupliques con otro mod. SA Styled Speedometer puede usar su cálculo de velocidad (VehFuncsSpeed=1). Requiere Essentials Pack."
 tags = ["vehicles", "tools"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]

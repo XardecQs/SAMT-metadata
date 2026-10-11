@@ -6,7 +6,7 @@ author = ["MixMods", "Junior_Djjr"]
 url = "https://www.mixmods.com.br/2019/06/sa-essentials-pack/"
 description = "Pack de correcciones y componentes esenciales para GTA SA: SilentPatch, ModLoader, CLEO/CLEO+, CrashInfo, NoDEP, Widescreen Fix, EXE 1.0 US Hoodlum, etc."
 tags = ["essential", "fixes", "pack", "tools"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

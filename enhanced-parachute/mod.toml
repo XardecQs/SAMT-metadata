@@ -6,7 +6,7 @@ author = ["Esquisito"]
 url = "https://libertycity.net/files/gta-san-andreas/236678-enhanced-parachute.html"
 description = "A small script which started as recreation of Gummy99 ''Parachute Functionality from Breaking the Bank at Caligula's'' mod but ended up being much bigger."
 tags = ["gameplay"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 
 [dependencies]

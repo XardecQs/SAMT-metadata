@@ -6,7 +6,7 @@ author = ["GillianMC"]
 url = "https://libertycity.net/files/244225-moderncarcam-iii-vc-sa.html"
 description = "Plugin ASI (MIT) que moderniza la cámara del vehículo: perfiles para reproducir la cámara de III/VC/SA o un perfil Enhanced con extras (FOV dinámico por velocidad, sacudida estilo VCS, inclinación por terreno, mirada libre con ratón/mando, cámara trasera al marcha atrás, etc.), configuración por coche y reimplementación del drive-by moderno (apuntar hacia donde mira la cámara). Al instalarlo, asume el Speed FOV y el VCS camera shake del Widescreen Fix. Compatible con Manual Driveby Refixed; no recomendado junto a Modernized Driveby. Requiere un cargador ASI (Essentials Pack)."
 tags = ["vehicles", "gameplay"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

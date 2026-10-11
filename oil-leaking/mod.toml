@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2020/10/oil-leaking-pingar-oleo-do-carro/"
 description = "Hace que los vehículos con el motor dañado dejen un rastro de aceite en el suelo, que puede incendiarse (y hacer explotar el coche si hay fuego cerca). Gasoline Mod lo detecta para aumentar el consumo de combustible. Requiere CLEO+."
 tags = ["vehicles", "gameplay"]
-cover = "cover.jpg"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

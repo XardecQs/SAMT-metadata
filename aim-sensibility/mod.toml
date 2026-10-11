@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2020/09/aim-sensibility-v2-0-sensibilidade-de-mira-configuravel/"
 description = "Permite configurar la sensibilidad del ratón mientras apuntas con un arma, con un multiplicador general y otro específico para el rifle de francotirador (por defecto 0.5). Recreado en .asi. Requiere Essentials Pack (ASI Loader)."
 tags = ["player", "gameplay"]
-cover = "cover.jpg"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

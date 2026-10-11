@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2022/03/sa-mixsets"
 description = "Un mod .asi con un extenso archivo .ini que contiene cientos de correcciones y ajustes para personalizar tu GTA San Andreas. Puedes activar solo una o todas las opciones."
 tags = ["fixes"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 screenshots = ["screenshots"]
 

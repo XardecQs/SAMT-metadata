@@ -6,7 +6,7 @@ author = ["VoidTheMage"]
 url = "https://libertycity.net/files/gta-san-andreas/243917-bike-flip-unleashed.html"
 description = "Permite hacer backflips y frontflips de forma consistente con las motos en GTA SA, con independencia de los FPS, y corrige inconsistencias de rotación en otros vehículos. Reemplaza el antiguo Bike Flip Fix de nadalao."
 tags = ["vehicles", "fixes"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

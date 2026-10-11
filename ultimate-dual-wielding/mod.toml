@@ -6,7 +6,7 @@ author = ["VoidTheMage"]
 url = "https://libertycity.net/files/gta-san-andreas/243916-ultimate-dual-wielding.html"
 description = "Corrige el sistema de doble empuñadura de GTA SA: ya no obliga a disparar siempre dos veces por más que mantengas el gatillo, y alterna correctamente las manos entre disparos."
 tags = ["fixes", "player"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

@@ -7,7 +7,7 @@ url = "https://www.mixmods.com.br/2021/06/iii-vc-sa-portablegta-change-saves-fol
 description = "portablegta.asi es un mod que cambia la carpeta 'GTA San Andreas User Files' a una carpeta llamada 'userfiles' en el mismo directorio donde está instalado el juego. Algo así como una instalación portátil."
 license = "MIT"
 tags = ["tools"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

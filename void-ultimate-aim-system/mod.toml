@@ -6,7 +6,7 @@ author = ["VoidTheMage"]
 url = "https://libertycity.net/files/gta-san-andreas/243919-void-ultimate-aim-system.html"
 description = "Reescribe el apuntado de GTA SA y arregla decenas de problemas al jugar con mando: transición de apuntado suave, zoom extra, cambio de hombro, punto de mira centrado y ajustable, mejores FOV por tipo de arma, zoom del francotirador, detección de paredes, cambio de objetivo con el stick derecho estilo juego moderno y sensibilidades ajustables. Reemplaza el antiguo Advanced Aiming de DK22Pac. Nota: incompatible con versiones antiguas del Widescreen Fix de ThirteenAG; usa la actual de MixMods."
 tags = ["player", "gameplay"]
-cover = "cover.webp"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 

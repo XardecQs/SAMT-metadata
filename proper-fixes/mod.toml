@@ -6,7 +6,7 @@ author = ["Junior_Djjr", "Jéssica Natália"]
 url = "https://www.mixmods.com.br/2026/06/sa-proper-fixes/"
 description = "El mayor pack de correcciones para GTA SA. Elige la edición por perfil: RoSA (adaptada a RoSA Evolved) o Vanilla (estándar)."
 tags = ["fixes", "essential"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 screenshots = ["screenshots"]
 

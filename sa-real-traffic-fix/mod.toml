@@ -6,7 +6,7 @@ author = ["Junior_Djjr"]
 url = "https://www.mixmods.com.br/2022/04/real-traffic-fix"
 description = "RTF es un mod .asi que realmente arregla la IA del tráfico en GTA San Andreas y GTA Vice City."
 tags = ["fixes"]
-cover = "cover.png"
+cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 
