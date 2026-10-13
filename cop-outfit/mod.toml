@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Cop Outfit
+id = "junior_djjr:cop-outfit"
+name = "Cop Outfit"
+version = "2.2"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2020/11/cop-outfit-v2-sem-estrela-ao-usar-roupa-da-policia/"
+description = "Hace que no aparezca la estrella de búsqueda cuando llevas puesto el traje de policía, ideal para jugar de poli de incógnito. Tres modos configurables en el .ini: sin estrella en la comisaría, la policía te ignora, o directamente sin nivel de búsqueda alguno (compatible con cualquier main.scm/scripts.img). Requiere ModLoader y CLEO+ (Essentials Pack)."
+tags = ["player", "gameplay", "cleo"]
+cover = "cover.avif"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

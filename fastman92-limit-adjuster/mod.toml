@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — fastman92 limit adjuster
+id = "fastman92:limit-adjuster"
+name = "fastman92 limit adjuster"
+version = "6.5"
+author = ["fastman92"]
+url = "https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/"
+description = "Ajustador de límites del motor de GTA SA: permite subir de forma configurable los límites de vehículos, peds, objetos, IPLs, IDs de modelos, partículas de efectos, etc. Es la alternativa de fastman92 a Open Limit Adjuster y suele ser necesaria para mods de efectos complejos. Importante: solo instalarlo no cambia nada; hay que editar 'fastman92limitAdjuster_GTASA.ini' (se genera al primer arranque) para activar los límites deseados. Debe ir en la raíz del juego (no en modloader/scripts, para no alterar el orden de carga). Requiere un cargador ASI (Essentials Pack)."
+tags = ["tools", "fixes"]
+cover = "cover.avif"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

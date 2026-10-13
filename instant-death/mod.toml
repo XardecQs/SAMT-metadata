@@ -1,0 +1,13 @@
+# GTA Mod Organizer manifest — Instant Death
+id = "medis_og:instant-death"
+name = "Instant Death"
+version = "2"
+author = ["MEDIS_OG"]
+url = "https://libertycity.net/files/gta-san-andreas/244420-instant-death.html"
+description = "Plugin ASI que salta por completo la pantalla de 'Wasted' cuando CJ muere: en lugar de la animación estándar, la pantalla se funde a negro al instante para un fallecimiento más realista. Permite elegir entre respawn sin pantalla negra y reproducir un sonido de muerte (incluye sound/death.mp3), ajustable en su .ini. Requiere un cargador ASI (Essentials Pack)."
+tags = ["player", "effects"]
+cover = "cover.avif"
+mount = ["content"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

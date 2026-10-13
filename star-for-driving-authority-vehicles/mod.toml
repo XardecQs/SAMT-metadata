@@ -1,0 +1,14 @@
+# GTA Mod Organizer manifest — Star for driving authority vehicles
+id = "junior_djjr:star-for-driving-authority-vehicles"
+name = "Star for driving authority vehicles"
+version = "1.0"
+author = ["Junior_Djjr"]
+url = "https://www.mixmods.com.br/2019/09/estrela-por-dirigir-veiculos-de-autoridade/"
+description = "Añade una estrella de búsqueda al conducir vehículos de autoridad, para que robar un coche de policía no salga gratis. No se activa si llevas el uniforme o la skin de policía, y cuanto más rápido conduces, más difícil es que te reconozcan. Opciones configurables en su .ini. Requiere ModLoader y CLEO (Essentials Pack)."
+tags = ["vehicles", "gameplay", "cleo"]
+cover = "cover.avif"
+mount = ["content"]
+guides = ["guides"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

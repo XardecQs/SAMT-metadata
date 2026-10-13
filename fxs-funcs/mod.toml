@@ -13,3 +13,23 @@ screenshots = ["screenshots"]
 
 [dependencies]
 required = ["mixmods:essentials-pack"]
+
+# Parche LOCAL (no oficial) del null-deref en +0x11408. Ver
+# patches/fix-null-deref-0x11408/ (script + README). El valor elegido monta
+# options/patch/<valor>/ ENCIMA de content/. Por defecto se usa el parche A.
+[[options]]
+group = "patch"
+name = "Parche local (+0x11408)"
+default = "patched-a"
+
+  [[options.choices]]
+  key = "original"
+  name = "Original (build 68, con crash)"
+
+  [[options.choices]]
+  key = "patched-a"
+  name = "Parche A (desactiva >4 texturas; recomendado)"
+
+  [[options.choices]]
+  key = "patched-b"
+  name = "Parche B (conserva >4 texturas; experimental)"

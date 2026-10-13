@@ -35,6 +35,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `cheat-menu-by-grinch` | Grinch | <https://www.mixmods.com.br/2022/03/cheat-menu-by-grinch> |
 | `combat-fx-upgrade` | WarButler, Junior_Djjr, Ezekiel, Function-X- | <https://www.mixmods.com.br/2020/03/combat-fx-upgrade-novos-efeitos-hd/> |
 | `cop-n-threat-radar` | Silvout | <https://libertycity.net/files/gta-san-andreas/220104-cop-n-threat-radar.html> |
+| `cop-outfit` | Junior_Djjr | <https://www.mixmods.com.br/2020/11/cop-outfit-v2-sem-estrela-ao-usar-roupa-da-policia/> |
 | `custom-crosshairs` | HzanRsxa2959, DK22Pac | <https://www.mixmods.com.br/2022/04/customcrosshairs-personalizar-miras/> |
 | `d3d9` | doitsujin | <https://github.com/doitsujin/dxvk> |
 | `dynamic-fov` | Junior_Djjr | <https://www.mixmods.com.br/2020/09/dynamic-fov/> |
@@ -47,6 +48,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `essentials-pack` | MixMods, Junior_Djjr | <https://www.mixmods.com.br/2019/06/sa-essentials-pack/> |
 | `faithful-weapons-pack` | ThePedro004, Firefly, Nadalao, Ezekiel | <https://www.mixmods.com.br/2020/07/faithful-weapons-pack-2-0-pack-de-armas-fies/> |
 | `faster-clothes-change` | Joneppi, Junior_Djjr, iAbokai | <https://libertycity.net/files/gta-san-andreas/236673-faster-clothes-change-revised.html> |
+| `fastman92-limit-adjuster` | fastman92 | <https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/> |
 | `fxs-funcs` | Junior_Djjr | <https://www.mixmods.com.br/2025/06/fxsfuncs/> |
 | `gasoline-mod` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/207184-gasoline-mod.html> |
 | `gear-control` | Asen, FilipeS, Junior_Djjr | <https://libertycity.net/files/gta-san-andreas/184195-gear-control.html> |
@@ -58,6 +60,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
 | `imfx` | DK22Pac, Function-X- | <https://www.mixmods.com.br/2018/09/IMFX.html> |
 | `imvehft` | DK22Pac, Function-X-, Junior_Djjr | <https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/> |
+| `instant-death` | MEDIS_OG | <https://libertycity.net/files/gta-san-andreas/244420-instant-death.html> |
 | `keep-no-ammo` | Junior_Djjr | <https://www.mixmods.com.br/2020/03/keepnoammo-continuar-sem-municao/> |
 | `loadscreens-definitive` | Jéssica Natália, Junior_Djjr | <https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd> |
 | `manual-driveby-refixed` | CatchyKetchup, ThirteenAG, Junior_Djjr, ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/213857-manual-driveby-refixed.html> |
@@ -67,6 +70,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `moderncarcam` | GillianMC | <https://libertycity.net/files/244225-moderncarcam-iii-vc-sa.html> |
 | `more-radar-icons` | Junior_Djjr, rill_ | <https://libertycity.net/files/gta-san-andreas/218226-more-radar-icons.html> |
 | `mw-project` | Junior_Djjr, Scop, MaxHeadRooM_, Sanya1990 | <https://www.mixmods.com.br/2022/02/mw-project-mais-agua-por-sa/> |
+| `natural-colors` | Makar S. | <https://libertycity.net/files/gta-san-andreas/244199-natural-colors.html> |
 | `newopcodes` | DK22Pac | <https://www.mixmods.com.br/2020/10/newopcodes-cleo-v2-1/> |
 | `nextgen-remaster-effects` | Ezekiel, Junior_Djjr | <https://www.mixmods.com.br/2022/04/sa-nextgen-remaster-effects/> |
 | `nextgen-weapon-sounds` | pedrowav, wuzimu7171_ | <https://libertycity.net/files/gta-san-andreas/230701-nextgen-weapon-sounds.html> |
@@ -96,6 +100,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-wind-farm` | Junior_Djjr, Sket_h, Jéssica Natália | <https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/> |
 | `scr-log` | LINK/2012, Junior_Djjr | <https://www.mixmods.com.br/2020/09/scrlog.html> |
 | `sleek-hitmarkers` | pedrowav | <https://libertycity.net/files/gta-san-andreas/230896-fomod-sleekhitmarkers.html> |
+| `star-for-driving-authority-vehicles` | Junior_Djjr | <https://www.mixmods.com.br/2019/09/estrela-por-dirigir-veiculos-de-autoridade/> |
 | `the-weapon-is-on-the-player` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
 | `third-person-rpg` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243918-third-person-rpg.html> |
 | `trunk-store-weapons` | Junior_Djjr | <https://www.mixmods.com.br/2021/04/trunk-store-weapons-guardar-armas-no-porta-malas/> |
@@ -107,5 +112,6 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `void-radio-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/212112-void-radio-wheel.html> |
 | `void-ultimate-aim-system` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/243919-void-ultimate-aim-system.html> |
 | `void-weapon-wheel` | VoidTheMage | <https://libertycity.net/files/gta-san-andreas/211490-void-weapon-wheel.html> |
+| `water-reflections` | SAMPER_DTR | <https://libertycity.net/files/gta-san-andreas/244378-water-reflections.html> |
 | `weapon-drop-n-save` | MKKJ | <https://www.mixmods.com.br/2019/12/weapon-drop-n-save-v1-3-largar-e-salvar-armas/> |
 | `weapon-recoil-auto` | HzanRsxa2959 | <https://www.mixmods.com.br/2020/12/weaponrecoilauto-v2-6-recuo-de-arma-ao-atirar/> |

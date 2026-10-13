@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Water Reflections
+id = "samper_dtr:water-reflections"
+name = "Water Reflections"
+version = "2026-10-10"
+author = ["SAMPER_DTR"]
+url = "https://libertycity.net/files/gta-san-andreas/244378-water-reflections.html"
+description = "Plugin ASI que añade reflejos dinámicos completos a la superficie del agua de GTA SA: el agua refleja su entorno (puertos, puentes, puestas de sol) con un coste de rendimiento mínimo. Fuerza, fresnel, oleaje (fuerza/escala/velocidad) y distancia de reflejo configurables en water.ini. Requiere un cargador ASI (Essentials Pack). Incluye su propio models/particle.txd, incompatible con otros mods que reemplacen particle.txd (Natural Colors, ECG, NextGen Remaster Effects)."
+tags = ["graphics", "effects"]
+cover = "cover.avif"
+mount = ["content"]
+screenshots = ["screenshots"]
+conflicts = ["makar_s:natural-colors", "junior_djjr:enhanced-classic-graphics", "ezekiel:nextgen-remaster-effects"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
