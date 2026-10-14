@@ -13,6 +13,7 @@ screenshots = ["screenshots"]
 [[options]]
 group = "variant"
 name = "Edición"
+default = "rosa"
 
   # RoSA: solo funciona con RoSA Evolved.
   [[options.choices]]

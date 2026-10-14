@@ -17,6 +17,7 @@ requires_any = ["link2012:open-limit-adjuster", "junior_djjr:improved-streaming"
 [[options]]
 group = "variant"
 name = "Resolución"
+default = "4k"
 
   [[options.choices]]
   key = "4k"

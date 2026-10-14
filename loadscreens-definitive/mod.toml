@@ -14,6 +14,7 @@ screenshots = ["screenshots"]
 [[options]]
 group = "variant"
 name = "Resolución"
+default = "2k"
 
   [[options.choices]]
   key = "2k"

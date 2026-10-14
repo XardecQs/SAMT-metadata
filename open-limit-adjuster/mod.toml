@@ -18,9 +18,5 @@ name = "Configuración"
   key = "samp"
   name = "SAMP"
 
-  [[options.choices]]
-  key = "samp-project2dfx"
-  name = "SAMP + Project2DFX"
-
 [dependencies]
 required = ["mixmods:essentials-pack"]
