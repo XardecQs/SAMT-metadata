@@ -11,8 +11,8 @@ mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]
 
-[variant]
-group = "reload"
+[family]
+id = "reload"
 name = "ReloadSA"
 
 conflicts = ["junior_djjr:keep-no-ammo"]

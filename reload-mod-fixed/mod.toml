@@ -9,8 +9,8 @@ tags = ["weapons", "gameplay", "cleo"]
 cover = "cover.avif"
 mount = ["content"]
 
-[variant]
-group = "reload"
+[family]
+id = "reload"
 name = "Reload Mod (Fixed)"
 
 [dependencies]

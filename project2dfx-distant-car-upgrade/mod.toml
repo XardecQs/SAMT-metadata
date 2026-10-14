@@ -11,8 +11,8 @@ mount = ["content"]
 guides = ["guides"]
 screenshots = ["screenshots"]
 
-[variant]
-group = "project2dfx"
+[family]
+id = "project2dfx"
 name = "Distant Car Upgrade (Zeneric)"
 
 [dependencies]

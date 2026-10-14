@@ -36,8 +36,8 @@ default = "optimized-default"
   name = "Original"
 
 # Familia de variantes de Project2DFX (solo una activa a la vez).
-[variant]
-group = "project2dfx"
+[family]
+id = "project2dfx"
 name = "ThirteenAG"
 
 # Dependencias (referencias por id autor:slug o por carpeta)

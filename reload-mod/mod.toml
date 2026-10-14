@@ -10,8 +10,8 @@ cover = "cover.avif"
 mount = ["content"]
 guides = ["guides"]
 
-[variant]
-group = "reload"
+[family]
+id = "reload"
 name = "Reload Mod"
 
 [dependencies]
