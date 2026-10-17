@@ -12,7 +12,7 @@ guides = ["guides"]
 screenshots = ["screenshots"]
 
 # Al menos uno de estos debe estar activo (mods gráficos con los que encaja).
-requires_any = ["junior_djjr:improved-streaming", "enhanced-classic-graphics"]
+requires_any = ["junior_djjr:proper-streaming", "enhanced-classic-graphics"]
 
 [[options]]
 group = "preset"

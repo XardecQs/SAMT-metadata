@@ -11,7 +11,7 @@ guides = ["guides"]
 screenshots = ["screenshots"]
 mount = ["content"]
 
-requires_any = ["junior_djjr:mixsets", "aap:sa-skygfx-extended", "mixmods:proper-fixes", "junior_djjr:improved-streaming"]
+requires_any = ["junior_djjr:mixsets", "aap:sa-skygfx-extended", "mixmods:proper-fixes", "junior_djjr:proper-streaming"]
 
 [dependencies]
 required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]

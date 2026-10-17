@@ -86,6 +86,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `proper-player-retex` | Jéssica Natália, Junior_Djjr, OjTrue, Zeneric, Jão, François Declasse | <https://www.mixmods.com.br/2024/12/proper-player-retex/> |
 | `proper-radar` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/proper-radar/> |
 | `proper-shaders` | MixMods, Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/05/sa-proper-shaders> |
+| `proper-streaming` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/10/proper-streaming/> |
 | `random-events-project` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/208204-random-events-project.html> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
 | `reload-mod` | Junior_Djjr, GillianMC | <https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/> |

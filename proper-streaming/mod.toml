@@ -1,0 +1,30 @@
+# GTA Mod Organizer manifest — Proper Streaming
+id = "junior_djjr:proper-streaming"
+name = "Proper Streaming"
+version = "1.0.1"
+author = ["Junior_Djjr", "Jéssica Natália"]
+url = "https://www.mixmods.com.br/2026/10/proper-streaming/"
+description = "Reemplazo de Improved Streaming (deprecado). Ajusta/amplía la memoria de streaming, precarga los LODs, libera modelos no usados antes de llegar al límite y mueve las texturas a un servidor de 64 bits (ProperStreaming64.exe) para no agotar el límite de 32 bits del juego. Requiere Essentials Pack (Largeaddress); recomendado Open Limit Adjuster. Usa el preset 1024 con mods HD y el 2048 con RoSA Evolved; el valor base es 512. Ojo: el servidor de 64 bits que lanza el ASI puede convivir mal con otros mods que lanzan un proceso secundario (p. ej. Soundize)."
+tags = ["performance", "fixes", "tools"]
+cover = "cover.avif"
+mount = ["content"]
+guides = ["guides"]
+conflicts = ["junior_djjr:improved-streaming"]
+
+# El .ini base (content/) usa StreamMemoryForced=512. Estas opciones lo suben
+# para perfiles con texturas HD o packs grandes.
+[[options]]
+group = "preset"
+name = "Memoria de streaming"
+
+  [[options.choices]]
+  key = "1024"
+  name = "1024 MB (mods HD)"
+
+  [[options.choices]]
+  key = "2048"
+  name = "2048 MB (RoSA Evolved)"
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["link2012:open-limit-adjuster"]

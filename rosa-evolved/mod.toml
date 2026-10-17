@@ -12,7 +12,7 @@ guides = ["guides"]
 screenshots = ["screenshots"]
 
 # Requiere memoria de streaming ampliada: basta con uno de estos.
-requires_any = ["link2012:open-limit-adjuster", "junior_djjr:improved-streaming", "junior_djjr:mixsets"]
+requires_any = ["link2012:open-limit-adjuster", "junior_djjr:proper-streaming", "junior_djjr:mixsets"]
 
 [[options]]
 group = "variant"

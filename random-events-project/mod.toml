@@ -13,4 +13,4 @@ screenshots = ["screenshots"]
 
 [dependencies]
 required = ["mixmods:essentials-pack", "link2012:open-limit-adjuster"]
-optional = ["junior_djjr:mixsets", "aap:sa-skygfx-extended", "mixmods:proper-fixes", "junior_djjr:improved-streaming"]
+optional = ["junior_djjr:mixsets", "aap:sa-skygfx-extended", "mixmods:proper-fixes", "junior_djjr:proper-streaming"]
