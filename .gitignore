@@ -3,32 +3,58 @@
 #
 # Se ignora TODO por defecto y se permite (whitelist) únicamente lo que es
 # propio de este repo:
-#   - <mod>/mod.toml
+#   - <mod>/mod.toml (legacy plano, external/<mod>/ o own/<mod>/)
 #   - <mod>/cover.*
 #   - <mod>/screenshots/**
 #
 # El contenido de los mods (content/, modloader/, extras/, guides/, etc.)
 # NUNCA se versiona aquí: no es de quien mantiene este repo y en muchos casos
 # tiene licencias que prohíben su redistribución. Ver NOTICE.md.
+#
+# generated/ contiene capturas/imports del organizador y se ignora por completo.
 # ============================================================================
 
 # Ignora todo en la raíz...
 /*
-# ...pero permite descender en las carpetas de cada mod.
+# ...pero permite el marcador de layout y la documentación propia.
+!/.samt.toml
+!/.gitignore
+!/README.md
+!/NOTICE.md
+!/LICENSE
+!/to-avif.sh
+
+# Permite descender en las carpetas de primer nivel (mods legacy y categorías).
 !/*/
-# Dentro de cada mod, ignora también todo...
+
+# Legacy: mods planos directamente en mods/.
 /*/*
-# ...salvo los metadatos.
 !/*/mod.toml
 !/*/cover.*
 !/*/screenshots/
 !/*/screenshots/**
 
-# Documentación del propio repositorio.
-!/.gitignore
-!/README.md
-!/NOTICE.md
-!/LICENSE
+# Categoría external/: metadata versionada, contenido ignorado.
+!/external/
+!/external/*/
+/external/*/*
+!/external/*/mod.toml
+!/external/*/cover.*
+!/external/*/screenshots/
+!/external/*/screenshots/**
 
-# Script de mantenimiento (conversión de imágenes a AVIF).
-!/to-avif.sh
+# Categoría own/: metadata versionada, contenido ignorado.
+!/own/
+!/own/*/
+/own/*/*
+!/own/*/mod.toml
+!/own/*/cover.*
+!/own/*/screenshots/
+!/own/*/screenshots/**
+
+# Generados/capturas: nunca se versionan (incluido su mod.toml).
+/generated/
+
+# Herramientas propias del repositorio (solo scripts).
+!/tools/
+!/tools/**

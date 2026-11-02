@@ -1,0 +1,15 @@
+# Layout de la carpeta mods/ para GTA Mod Organizer (SAMT).
+#
+# - external/: mods de terceros (solo se versiona mod.toml, cover y screenshots)
+# - own/:      mods propios (misma política de metadatos)
+# - generated/: capturas/imports del organizador (ignorado por git)
+#
+# Los mods planos actuales siguen funcionando como "legacy" mientras
+# legacy_root = true. Cuando se migren a external/, se puede poner false.
+
+layout_version = 1
+categories = ["external", "own", "generated"]
+default_category = "external"
+generated_category = "generated"
+legacy_root = true
+ignore = ["tools", "reports", "REPORTE-fxsfuncs-mixmods"]

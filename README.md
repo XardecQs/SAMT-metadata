@@ -10,7 +10,7 @@ propiedad y en muchos casos sus licencias prohíben redistribuirlo.
 
 ## Qué se versiona
 
-Para cada mod, dentro de `mods/<slug>/`:
+Para cada mod, dentro de `mods/external/<slug>/`, `mods/own/<slug>/` o, durante la transición, `mods/<slug>/` (legacy):
 
 | Ruta               | Descripción                                        |
 |--------------------|----------------------------------------------------|
@@ -30,10 +30,27 @@ Todo lo demás se ignora (ver `.gitignore`): `content/`, `modloader/`,
 Nada de esto se redistribuye. Para instalar un mod hay que descargarlo desde su
 web original; la URL está en el campo `url` de su `mod.toml`.
 
+## Layout de la carpeta `mods/`
+
+La carpeta usa un marcador `.samt.toml` (versionado) que declara las categorías:
+
+```
+mods/
+├── .samt.toml
+├── external/       # mods de terceros (metadata versionada)
+├── own/            # mods propios (metadata versionada)
+├── generated/      # capturas/imports del organizador (IGNORADO por git)
+└── <slug>/         # mods legacy planos (compatibilidad)
+```
+
+`generated/` no se versiona nunca (incluido su `mod.toml`). Los mods planos
+siguen funcionando como legacy mientras `legacy_root = true`; se pueden migrar
+a `external/` más adelante sin perder su estado en el organizador.
+
 ## Estructura canónica de un mod
 
 ```
-mods/<slug>/
+mods/<categoría>/<slug>/
 ├── mod.toml            # manifiesto (siempre)
 ├── cover.<ext>         # carátula única, basename fijo "cover"
 ├── screenshots/        # galería de capturas
@@ -75,7 +92,8 @@ otra máquina:
    git clone <url> "$GAME_ROOT/mods"
    ```
 2. Descarga cada mod desde su `url` (campo de `mod.toml`) y coloca su contenido
-   donde indique `mount` (normalmente `mods/<slug>/content/`).
+   donde indique `mount` (normalmente `mods/<categoría>/<slug>/content/`; los
+   mods legacy siguen en `mods/<slug>/content/`).
 3. Registra y activa:
    ```bash
    gta-mo ctl discover
