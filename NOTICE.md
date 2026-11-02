@@ -55,6 +55,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `gps-redux` | juicermv | <https://www.mixmods.com.br/2022/10/sa-gps-redux> |
 | `graphics-tweaker` | Junior_Djjr | <https://www.mixmods.com.br/2022/09/graphicstweaker> |
 | `gta-sa-hd-movies-folder` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2020/11/gta-sa-hd-movies-folder-intro-em-hd> |
+| `hydra-refix` | KoT-BTpycaXXX | <https://libertycity.net/files/gta-san-andreas/245313-hydra-refix-2.0.html> |
 | `improved-fastloader` | LINK/2012 | <https://www.mixmods.com.br/2014/02/improved-fastloader-by-link-2012> |
 | `improved-streaming` | Junior_Djjr | <https://www.mixmods.com.br/2026/07/improved-streaming> |
 | `improved-surface-physics` | Junior_Djjr | <https://www.mixmods.com.br/2021/11/improved-surface-physics-superficies-com-fisica-melhorada/> |
@@ -88,6 +89,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `proper-shaders` | MixMods, Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/05/sa-proper-shaders> |
 | `proper-streaming` | Junior_Djjr, Jéssica Natália | <https://www.mixmods.com.br/2026/10/proper-streaming/> |
 | `random-events-project` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/208204-random-events-project.html> |
+| `rdr2-cores` | basicbillmain | <https://libertycity.net/files/gta-san-andreas/244801-indicators-from-red-dead-redemption-2.html> |
 | `real-linear-graphics` | Junior_Djjr | <https://www.mixmods.com.br/2022/07/real-linear-graphics> |
 | `reload-mod` | Junior_Djjr, GillianMC | <https://www.mixmods.com.br/2019/07/reload-mod-by-junior_djjr-recarregar-armas/> |
 | `reload-mod-fixed` | Junior_Djjr, GillianMC | <https://libertycity.net/files/gta-san-andreas/213551-reload-mod-fixed.html> |
@@ -100,6 +102,7 @@ licencia CC0 del repositorio salvo que se indique lo contrario.
 | `sa-styled-speedometer` | rill_ | <https://libertycity.net/files/gta-san-andreas/220739-sa-styled-speedometer.html> |
 | `sa-wind-farm` | Junior_Djjr, Sket_h, Jéssica Natália | <https://www.mixmods.com.br/2022/09/sa-wind-farm-mod-cata-ventos-eolicos/> |
 | `scr-log` | LINK/2012, Junior_Djjr | <https://www.mixmods.com.br/2020/09/scrlog.html> |
+| `skip-any-mission` | andre500 | <https://libertycity.net/files/gta-san-andreas/131561-skip-any-mission.html> |
 | `sleek-hitmarkers` | pedrowav | <https://libertycity.net/files/gta-san-andreas/230896-fomod-sleekhitmarkers.html> |
 | `star-for-driving-authority-vehicles` | Junior_Djjr | <https://www.mixmods.com.br/2019/09/estrela-por-dirigir-veiculos-de-autoridade/> |
 | `the-weapon-is-on-the-player` | ArtemQa146 | <https://libertycity.net/files/gta-san-andreas/205283-the-weapon-is-on-the-player.html> |
