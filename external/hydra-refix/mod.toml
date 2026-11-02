@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — Hydra ReFix 2.0
+id = "kot-btpycaxxx:hydra-refix"
+name = "Hydra ReFix 2.0"
+version = "2.0"
+author = ["KoT-BTpycaXXX"]
+url = "https://libertycity.net/files/gta-san-andreas/245313-hydra-refix-2.0.html"
+description = "Rehace el modelo del Hydra: eleva los cañones, corrige la animación de apertura de cabina y añade repintado a dos colores (el segundo repinta morro, parte inferior de las alas y estabilizadores) más 4 paintjobs que VehFuncs puede elegir al aparecer. Sustituye hydra.dff/hydra.txd vía ModLoader y aporta la línea de carcols con los colores nuevos. Requiere ModLoader (Essentials Pack); VehFuncs opcional para los paintjobs."
+tags = ["vehicles", "textures"]
+cover = "cover.avif"
+mount = ["content"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]
+optional = ["junior_djjr:veh-funcs"]

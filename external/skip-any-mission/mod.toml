@@ -1,0 +1,13 @@
+# GTA Mod Organizer manifest — Skip Any Mission
+id = "andre500:skip-any-mission"
+name = "Skip Any Mission"
+version = "2026-10-17"
+author = ["andre500"]
+url = "https://libertycity.net/files/gta-san-andreas/131561-skip-any-mission.html"
+description = "Plugin ASI que reactiva la función de depuración de Rockstar para saltar cualquier misión de la historia con una tecla. No modifica main.scm ni script.img, comprueba la versión del ejecutable y es compatible con CLEO. La tecla se configura en SkipAnyMission.ini; aquí está en F8 para no chocar con la recarga en caliente de bullet-time (F7). Requiere Essentials Pack (ASI Loader)."
+tags = ["missions", "gameplay", "asi"]
+cover = "cover.avif"
+mount = ["content"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

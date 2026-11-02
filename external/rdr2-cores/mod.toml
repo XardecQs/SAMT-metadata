@@ -1,0 +1,15 @@
+# GTA Mod Organizer manifest — RDR2 Cores
+id = "basicbillmain:rdr2-cores"
+name = "RDR2 Cores"
+version = "1.0"
+author = ["basicbillmain"]
+url = "https://libertycity.net/files/gta-san-andreas/244801-indicators-from-red-dead-redemption-2.html"
+description = "Añade dos indicadores circulares estilo Red Dead Redemption 2 para el hambre y la stamina de CJ, basados en los contadores nativos del juego. Los núcleos se vacían con el tiempo, parpadean al estar bajos y su posición y tamaño se ajustan en RDRCores.ini. Requiere ModLoader y CLEO 4 (Essentials Pack); no usa CLEO+. Aviso del autor: generado con Claude y puede tener bugs; durante las carreras los núcleos pueden verse como cuadrados blancos."
+tags = ["interface", "stats", "cleo"]
+cover = "cover.avif"
+mount = ["content"]
+guides = ["guides"]
+screenshots = ["screenshots"]
+
+[dependencies]
+required = ["mixmods:essentials-pack"]

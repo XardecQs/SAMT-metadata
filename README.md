@@ -44,8 +44,8 @@ mods/
 ```
 
 `generated/` no se versiona nunca (incluido su `mod.toml`). Los mods planos
-siguen funcionando como legacy mientras `legacy_root = true`; se pueden migrar
-a `external/` más adelante sin perder su estado en el organizador.
+siguen funcionando como legacy mientras `legacy_root = true`; los mods actuales
+ya viven en `external/` y `own/` (el soporte legacy queda para repos antiguos).
 
 ## Estructura canónica de un mod
 

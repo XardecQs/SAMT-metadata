@@ -12,4 +12,4 @@ categories = ["external", "own", "generated"]
 default_category = "external"
 generated_category = "generated"
 legacy_root = true
-ignore = ["tools", "reports", "REPORTE-fxsfuncs-mixmods"]
+ignore = ["tools", "reports"]
